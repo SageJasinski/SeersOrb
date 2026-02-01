@@ -1,0 +1,168 @@
+{
+  "object": "card",
+  "id": "61972ddb-3421-4f22-a47a-89cea944dd02",
+  "oracle_id": "b06067e7-330e-47de-be59-c2874eedba1d",
+  "multiverse_ids": [
+    607226,
+    607227
+  ],
+  "mtgo_id": 110224,
+  "arena_id": 84462,
+  "tcgplayer_id": 492056,
+  "cardmarket_id": 704816,
+  "name": "Bonded Herdbeast // Plated Kilnbeast",
+  "lang": "en",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/61972ddb-3421-4f22-a47a-89cea944dd02",
+  "scryfall_uri": "https://scryfall.com/card/mom/178/bonded-herdbeast-plated-kilnbeast?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 5.0,
+  "type_line": "Creature \u2014 Beast // Creature \u2014 Phyrexian Beast",
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Transform",
+    "Menace"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Bonded Herdbeast",
+      "mana_cost": "{4}{G}",
+      "type_line": "Creature \u2014 Beast",
+      "oracle_text": "{4}{R/P}: Transform this creature. Activate only as a sorcery. ({R/P} can be paid with either {R} or 2 life.)",
+      "colors": [
+        "G"
+      ],
+      "power": "4",
+      "toughness": "5",
+      "flavor_text": "Though both had lost their families, the *eludha*\u2014the spiritual connection between the monsters of Ikoria and their human bonders\u2014gave them something greater.",
+      "artist": "Jokubas Uogintas",
+      "artist_id": "2c14303e-97a3-45fa-9bd8-59e5332a65f9",
+      "illustration_id": "82c42d97-4e55-4567-9683-f25d24345630",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670",
+        "normal": "https://cards.scryfall.io/normal/front/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670",
+        "large": "https://cards.scryfall.io/large/front/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670",
+        "png": "https://cards.scryfall.io/png/front/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.png?1682204670",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Plated Kilnbeast",
+      "mana_cost": "",
+      "type_line": "Creature \u2014 Phyrexian Beast",
+      "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)",
+      "colors": [
+        "G",
+        "R"
+      ],
+      "color_indicator": [
+        "G",
+        "R"
+      ],
+      "power": "7",
+      "toughness": "5",
+      "flavor_text": "Now, united by the Great Work, they knew what it meant to be truly bonded.",
+      "artist": "Jokubas Uogintas",
+      "artist_id": "2c14303e-97a3-45fa-9bd8-59e5332a65f9",
+      "illustration_id": "90d8bf09-bf24-4c5d-86c0-69a14746b07f",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670",
+        "normal": "https://cards.scryfall.io/normal/back/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670",
+        "large": "https://cards.scryfall.io/large/back/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670",
+        "png": "https://cards.scryfall.io/png/back/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.png?1682204670",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/6/1/61972ddb-3421-4f22-a47a-89cea944dd02.jpg?1682204670"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/61972ddb-3421-4f22-a47a-89cea944dd02/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab06067e7-330e-47de-be59-c2874eedba1d&unique=prints",
+  "collector_number": "178",
+  "digital": false,
+  "rarity": "common",
+  "artist": "Jokubas Uogintas",
+  "artist_ids": [
+    "2c14303e-97a3-45fa-9bd8-59e5332a65f9"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 24576,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.06",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.05",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=607226&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBonded%2BHerdbeast%2B%252F%252F%2BPlated%2BKilnbeast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBonded%2BHerdbeast%2B%252F%252F%2BPlated%2BKilnbeast",
+    "edhrec": "https://edhrec.com/route/?cc=Bonded+Herdbeast"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F492056%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=704816&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/110224?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

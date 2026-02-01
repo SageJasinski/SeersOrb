@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "594323b6-558d-4597-beb8-5346599ea571",
+  "oracle_id": "77ac3718-fcf2-4a84-968b-799e4783d581",
+  "multiverse_ids": [],
+  "arena_id": 77137,
+  "name": "A-Plate Armor",
+  "lang": "en",
+  "released_at": "2021-07-23",
+  "uri": "https://api.scryfall.com/cards/594323b6-558d-4597-beb8-5346599ea571",
+  "scryfall_uri": "https://scryfall.com/card/afr/A-32/a-plate-armor?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/9/594323b6-558d-4597-beb8-5346599ea571.jpg?1681159217",
+    "normal": "https://cards.scryfall.io/normal/front/5/9/594323b6-558d-4597-beb8-5346599ea571.jpg?1681159217",
+    "large": "https://cards.scryfall.io/large/front/5/9/594323b6-558d-4597-beb8-5346599ea571.jpg?1681159217",
+    "png": "https://cards.scryfall.io/png/front/5/9/594323b6-558d-4597-beb8-5346599ea571.png?1681159217",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/594323b6-558d-4597-beb8-5346599ea571.jpg?1681159217",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/9/594323b6-558d-4597-beb8-5346599ea571.jpg?1681159217"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Artifact \u2014 Equipment",
+  "oracle_text": "Equipped creature gets +3/+3 and has ward {1}. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)\nEquip {3}. This ability costs {1} less to activate for each other Equipment you control.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Equip"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "ad447e50-cfb1-40df-ae01-a65c46f2f572",
+      "component": "combo_piece",
+      "name": "Plate Armor",
+      "type_line": "Artifact \u2014 Equipment",
+      "uri": "https://api.scryfall.com/cards/ad447e50-cfb1-40df-ae01-a65c46f2f572"
+    },
+    {
+      "object": "related_card",
+      "id": "594323b6-558d-4597-beb8-5346599ea571",
+      "component": "combo_piece",
+      "name": "A-Plate Armor",
+      "type_line": "Artifact \u2014 Equipment",
+      "uri": "https://api.scryfall.com/cards/594323b6-558d-4597-beb8-5346599ea571"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e1ef87ba-ba92-4573-817f-543b996d2851",
+  "set": "afr",
+  "set_name": "Adventures in the Forgotten Realms",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/e1ef87ba-ba92-4573-817f-543b996d2851",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aafr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/afr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/594323b6-558d-4597-beb8-5346599ea571/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A77ac3718-fcf2-4a84-968b-799e4783d581&unique=prints",
+  "collector_number": "A-32",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Martina Pilcerova",
+  "artist_ids": [
+    "30fead7c-da53-4c1b-b514-4be6e5ce487c"
+  ],
+  "illustration_id": "f38388e6-9a2d-48fe-b8d9-152b162bc37b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced",
+    "alchemy"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Plate%2BArmor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Plate%2BArmor",
+    "edhrec": "https://edhrec.com/route/?cc=A-Plate+Armor"
+  }
+}

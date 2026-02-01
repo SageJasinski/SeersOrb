@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "0b98ba34-f251-4bd0-9d75-1d4445be5cfd",
+  "oracle_id": "01ed9139-293d-4477-a145-3c6fe59266c7",
+  "multiverse_ids": [],
+  "resource_id": "BAD75B64CB3A0CE5AFB348FFA049A42FDF23FF59B9BD01ABF90DA98275758F99",
+  "mtgo_id": 145022,
+  "tcgplayer_id": 661971,
+  "cardmarket_id": 857750,
+  "name": "Airship Engine Room",
+  "lang": "en",
+  "released_at": "2025-11-21",
+  "uri": "https://api.scryfall.com/cards/0b98ba34-f251-4bd0-9d75-1d4445be5cfd",
+  "scryfall_uri": "https://scryfall.com/card/tla/265/airship-engine-room?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/b/0b98ba34-f251-4bd0-9d75-1d4445be5cfd.jpg?1764121949",
+    "normal": "https://cards.scryfall.io/normal/front/0/b/0b98ba34-f251-4bd0-9d75-1d4445be5cfd.jpg?1764121949",
+    "large": "https://cards.scryfall.io/large/front/0/b/0b98ba34-f251-4bd0-9d75-1d4445be5cfd.jpg?1764121949",
+    "png": "https://cards.scryfall.io/png/front/0/b/0b98ba34-f251-4bd0-9d75-1d4445be5cfd.png?1764121949",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0b98ba34-f251-4bd0-9d75-1d4445be5cfd.jpg?1764121949",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/b/0b98ba34-f251-4bd0-9d75-1d4445be5cfd.jpg?1764121949"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+  "colors": [],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "R",
+    "U"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "118f7e64-5caa-4cb7-99a8-184f4d3a7422",
+  "set": "tla",
+  "set_name": "Avatar: The Last Airbender",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/118f7e64-5caa-4cb7-99a8-184f4d3a7422",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atla&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tla?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0b98ba34-f251-4bd0-9d75-1d4445be5cfd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01ed9139-293d-4477-a145-3c6fe59266c7&unique=prints",
+  "collector_number": "265",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The Fire Nation's expansion fueled progress, and their progress fueled expansion.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andreas Rocha",
+  "artist_ids": [
+    "d084e74b-f63a-4107-b72c-ed6250ecc93b"
+  ],
+  "illustration_id": "72b4a65f-9ddd-4691-a04d-ff37b125fda8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 9626,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.11",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.10",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAirship%2BEngine%2BRoom",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAirship%2BEngine%2BRoom",
+    "edhrec": "https://edhrec.com/route/?cc=Airship+Engine+Room"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F661971%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=857750&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/145022?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

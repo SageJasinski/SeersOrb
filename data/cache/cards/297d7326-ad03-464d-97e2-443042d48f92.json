@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "297d7326-ad03-464d-97e2-443042d48f92",
+  "oracle_id": "32bb6d53-3b9e-4f13-a17e-46b564afd366",
+  "multiverse_ids": [
+    44342
+  ],
+  "mtgo_id": 18762,
+  "mtgo_foil_id": 18763,
+  "tcgplayer_id": 10907,
+  "cardmarket_id": 1075,
+  "name": "Bonethorn Valesk",
+  "lang": "en",
+  "released_at": "2003-05-26",
+  "uri": "https://api.scryfall.com/cards/297d7326-ad03-464d-97e2-443042d48f92",
+  "scryfall_uri": "https://scryfall.com/card/scg/82/bonethorn-valesk?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.jpg?1562526649",
+    "normal": "https://cards.scryfall.io/normal/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.jpg?1562526649",
+    "large": "https://cards.scryfall.io/large/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.jpg?1562526649",
+    "png": "https://cards.scryfall.io/png/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.png?1562526649",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.jpg?1562526649",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/9/297d7326-ad03-464d-97e2-443042d48f92.jpg?1562526649"
+  },
+  "mana_cost": "{4}{R}",
+  "cmc": 5.0,
+  "type_line": "Creature \u2014 Beast",
+  "oracle_text": "Whenever a permanent is turned face up, this creature deals 1 damage to any target.",
+  "power": "4",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5133c3a1-1412-4ce6-a1f0-73b695966ded",
+  "set": "scg",
+  "set_name": "Scourge",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/5133c3a1-1412-4ce6-a1f0-73b695966ded",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ascg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/scg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/297d7326-ad03-464d-97e2-443042d48f92/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A32bb6d53-3b9e-4f13-a17e-46b564afd366&unique=prints",
+  "collector_number": "82",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Barbarians weave its spurs into ceremonial charms to proclaim their hardiness in battle.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alan Pollack",
+  "artist_ids": [
+    "70c20ea3-5ad6-4082-a337-6e994ae5828e"
+  ],
+  "illustration_id": "0b948733-436e-4758-b0d0-6b9d2115cbb6",
+  "border_color": "black",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 29091,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.32",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.26",
+    "tix": "0.06"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44342&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBonethorn%2BValesk",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBonethorn%2BValesk",
+    "edhrec": "https://edhrec.com/route/?cc=Bonethorn+Valesk"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F10907%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=1075&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/18762?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

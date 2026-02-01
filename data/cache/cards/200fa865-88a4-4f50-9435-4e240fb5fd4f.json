@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "200fa865-88a4-4f50-9435-4e240fb5fd4f",
+  "oracle_id": "b204db60-f155-468c-8a27-4ea26cb13b6f",
+  "multiverse_ids": [],
+  "arena_id": 91344,
+  "name": "A-Rulik Mons, Warren Chief",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/200fa865-88a4-4f50-9435-4e240fb5fd4f",
+  "scryfall_uri": "https://scryfall.com/card/dmu/A-217/a-rulik-mons-warren-chief?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/0/200fa865-88a4-4f50-9435-4e240fb5fd4f.jpg?1705117682",
+    "normal": "https://cards.scryfall.io/normal/front/2/0/200fa865-88a4-4f50-9435-4e240fb5fd4f.jpg?1705117682",
+    "large": "https://cards.scryfall.io/large/front/2/0/200fa865-88a4-4f50-9435-4e240fb5fd4f.jpg?1705117682",
+    "png": "https://cards.scryfall.io/png/front/2/0/200fa865-88a4-4f50-9435-4e240fb5fd4f.png?1705117682",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/0/200fa865-88a4-4f50-9435-4e240fb5fd4f.jpg?1705117682",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/0/200fa865-88a4-4f50-9435-4e240fb5fd4f.jpg?1705117682"
+  },
+  "mana_cost": "{1}{R}{G}{G}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature \u2014 Goblin",
+  "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhenever Rulik Mons, Warren Chief enters or attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you didn't put a card onto the battlefield this way, create a 1/1 red Goblin creature token.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f0c79f75-0389-4514-b86f-5ee353965c02",
+      "component": "combo_piece",
+      "name": "Rulik Mons, Warren Chief",
+      "type_line": "Legendary Creature \u2014 Goblin",
+      "uri": "https://api.scryfall.com/cards/f0c79f75-0389-4514-b86f-5ee353965c02"
+    },
+    {
+      "object": "related_card",
+      "id": "200fa865-88a4-4f50-9435-4e240fb5fd4f",
+      "component": "combo_piece",
+      "name": "A-Rulik Mons, Warren Chief",
+      "type_line": "Legendary Creature \u2014 Goblin",
+      "uri": "https://api.scryfall.com/cards/200fa865-88a4-4f50-9435-4e240fb5fd4f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/200fa865-88a4-4f50-9435-4e240fb5fd4f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab204db60-f155-468c-8a27-4ea26cb13b6f&unique=prints",
+  "collector_number": "A-217",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tuan Duong Chu",
+  "artist_ids": [
+    "d84246f9-a536-485f-a21d-a237302ed100"
+  ],
+  "illustration_id": "2c278837-1719-4c1f-8944-25af9217352f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced",
+    "alchemy"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Rulik%2BMons%252C%2BWarren%2BChief",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Rulik%2BMons%252C%2BWarren%2BChief",
+    "edhrec": "https://edhrec.com/route/?cc=A-Rulik+Mons%2C+Warren+Chief"
+  }
+}

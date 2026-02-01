@@ -1,0 +1,258 @@
+{% extends "base.html" %}
+
+{% block title %}Seer's Orb - MTG Deck Building Assistant{% endblock %}
+
+{% block content %}
+<div class="container">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">
+                <span class="orb-glow">🔮</span>
+                Seer's Orb
+            </h1>
+            <p class="hero-subtitle">
+                Advanced MTG deck building with graph theory, probability analysis, and Monte Carlo simulation
+            </p>
+            <div class="hero-actions">
+                <a href="{{ url_for('deck.deck_builder') }}" class="btn btn-primary btn-lg">
+                    <span>✨</span> Start Building
+                </a>
+                <a href="{{ url_for('deck.deck_list') }}" class="btn btn-secondary btn-lg">
+                    <span>📁</span> My Decks
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Grid -->
+    <section class="features">
+        <h2 class="section-title">Powerful Analysis Tools</h2>
+
+        <div class="features-grid">
+            <div class="feature-card">
+                <div class="feature-icon">🕸️</div>
+                <h3 class="feature-title">Graph Theory Engine</h3>
+                <p class="feature-description">
+                    Visualize card interactions as a network graph. Identify key cards, synergy clusters, and isolated
+                    pieces.
+                </p>
+                <ul class="feature-list">
+                    <li>Degree & betweenness centrality</li>
+                    <li>Community detection</li>
+                    <li>PageRank importance</li>
+                    <li>Interactive visualization</li>
+                </ul>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">📊</div>
+                <h3 class="feature-title">Probability Analysis</h3>
+                <p class="feature-description">
+                    Calculate exact probabilities using hypergeometric and multivariate distributions.
+                </p>
+                <ul class="feature-list">
+                    <li>Opening hand probabilities</li>
+                    <li>Multi-card combo odds</li>
+                    <li>Mulligan impact analysis</li>
+                    <li>Optimal card counts</li>
+                </ul>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">🎲</div>
+                <h3 class="feature-title">Monte Carlo Simulation</h3>
+                <p class="feature-description">
+                    Run thousands of simulated games to test complex scenarios.
+                </p>
+                <ul class="feature-list">
+                    <li>Custom success criteria</li>
+                    <li>Mulligan strategies</li>
+                    <li>Confidence intervals</li>
+                    <li>Card frequency in wins</li>
+                </ul>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">🃏</div>
+                <h3 class="feature-title">Visual Deck Builder</h3>
+                <p class="feature-description">
+                    Build decks with an intuitive interface powered by Scryfall data.
+                </p>
+                <ul class="feature-list">
+                    <li>Real-time card search</li>
+                    <li>Drag-and-drop organization</li>
+                    <li>Mana curve visualization</li>
+                    <li>Format legality checking</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Quick Stats (if decks exist) -->
+    <section class="quick-start">
+        <h2 class="section-title">Quick Start</h2>
+        <div class="quick-start-grid">
+            <a href="{{ url_for('deck.deck_builder') }}" class="quick-start-card">
+                <span class="qs-icon">➕</span>
+                <span class="qs-text">New Deck</span>
+            </a>
+            <a href="{{ url_for('analysis.probability_analysis') }}" class="quick-start-card">
+                <span class="qs-icon">🧮</span>
+                <span class="qs-text">Calculate Odds</span>
+            </a>
+            <a href="{{ url_for('simulation.monte_carlo') }}" class="quick-start-card">
+                <span class="qs-icon">🔬</span>
+                <span class="qs-text">Run Simulation</span>
+            </a>
+        </div>
+    </section>
+</div>
+
+<style>
+    .hero {
+        text-align: center;
+        padding: var(--space-2xl) 0;
+        margin-bottom: var(--space-2xl);
+    }
+
+    .hero-title {
+        font-size: 4rem;
+        font-weight: 800;
+        margin-bottom: var(--space-md);
+        background: linear-gradient(135deg, var(--color-accent), #a78bfa, #c084fc);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+
+    .orb-glow {
+        display: inline-block;
+        font-size: 3.5rem;
+        animation: float 3s ease-in-out infinite;
+        filter: drop-shadow(0 0 20px rgba(139, 92, 246, 0.6));
+        -webkit-text-fill-color: initial;
+    }
+
+    @keyframes float {
+
+        0%,
+        100% {
+            transform: translateY(0);
+        }
+
+        50% {
+            transform: translateY(-10px);
+        }
+    }
+
+    .hero-subtitle {
+        font-size: 1.25rem;
+        color: var(--color-text-secondary);
+        max-width: 600px;
+        margin: 0 auto var(--space-xl);
+    }
+
+    .hero-actions {
+        display: flex;
+        gap: var(--space-md);
+        justify-content: center;
+    }
+
+    .section-title {
+        font-size: 1.75rem;
+        text-align: center;
+        margin-bottom: var(--space-xl);
+    }
+
+    .features-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: var(--space-lg);
+        margin-bottom: var(--space-2xl);
+    }
+
+    .feature-card {
+        background: var(--color-bg-card);
+        border: 1px solid var(--color-bg-tertiary);
+        border-radius: var(--radius-xl);
+        padding: var(--space-xl);
+        transition: all var(--transition-normal);
+    }
+
+    .feature-card:hover {
+        transform: translateY(-4px);
+        border-color: var(--color-accent);
+        box-shadow: var(--shadow-glow);
+    }
+
+    .feature-icon {
+        font-size: 2.5rem;
+        margin-bottom: var(--space-md);
+    }
+
+    .feature-title {
+        font-size: 1.25rem;
+        margin-bottom: var(--space-sm);
+    }
+
+    .feature-description {
+        color: var(--color-text-secondary);
+        margin-bottom: var(--space-md);
+    }
+
+    .feature-list {
+        list-style: none;
+        color: var(--color-text-muted);
+        font-size: 0.875rem;
+    }
+
+    .feature-list li {
+        padding: var(--space-xs) 0;
+        padding-left: var(--space-lg);
+        position: relative;
+    }
+
+    .feature-list li::before {
+        content: "✓";
+        position: absolute;
+        left: 0;
+        color: var(--color-success);
+    }
+
+    .quick-start-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: var(--space-md);
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .quick-start-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: var(--space-sm);
+        padding: var(--space-xl);
+        background: var(--color-bg-card);
+        border: 1px solid var(--color-bg-tertiary);
+        border-radius: var(--radius-lg);
+        color: var(--color-text-primary);
+        transition: all var(--transition-fast);
+    }
+
+    .quick-start-card:hover {
+        background: var(--color-accent);
+        border-color: var(--color-accent);
+        transform: scale(1.05);
+    }
+
+    .qs-icon {
+        font-size: 2rem;
+    }
+
+    .qs-text {
+        font-weight: 500;
+    }
+</style>
+{% endblock %}

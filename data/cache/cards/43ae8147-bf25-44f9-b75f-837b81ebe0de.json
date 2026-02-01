@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "43ae8147-bf25-44f9-b75f-837b81ebe0de",
+  "oracle_id": "070bd1e8-6c61-4b0e-b179-e375b843410f",
+  "multiverse_ids": [
+    394746
+  ],
+  "mtgo_id": 56236,
+  "mtgo_foil_id": 56237,
+  "tcgplayer_id": 96661,
+  "cardmarket_id": 273329,
+  "name": "Youthful Scholar",
+  "lang": "en",
+  "released_at": "2015-03-27",
+  "uri": "https://api.scryfall.com/cards/43ae8147-bf25-44f9-b75f-837b81ebe0de",
+  "scryfall_uri": "https://scryfall.com/card/dtk/84/youthful-scholar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/3/43ae8147-bf25-44f9-b75f-837b81ebe0de.jpg?1562785431",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/43ae8147-bf25-44f9-b75f-837b81ebe0de.jpg?1562785431",
+    "large": "https://cards.scryfall.io/large/front/4/3/43ae8147-bf25-44f9-b75f-837b81ebe0de.jpg?1562785431",
+    "png": "https://cards.scryfall.io/png/front/4/3/43ae8147-bf25-44f9-b75f-837b81ebe0de.png?1562785431",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43ae8147-bf25-44f9-b75f-837b81ebe0de.jpg?1562785431",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/3/43ae8147-bf25-44f9-b75f-837b81ebe0de.jpg?1562785431"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Creature \u2014 Human Wizard",
+  "oracle_text": "When this creature dies, draw two cards.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "7e72625f-f320-4552-a719-d11e2f1853bd",
+  "set": "dtk",
+  "set_name": "Dragons of Tarkir",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/7e72625f-f320-4552-a719-d11e2f1853bd",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dtk?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/43ae8147-bf25-44f9-b75f-837b81ebe0de/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A070bd1e8-6c61-4b0e-b179-e375b843410f&unique=prints",
+  "collector_number": "84",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "silumgar",
+  "flavor_text": "\"Too dumb, and you end up a sibsig. Too smart, and you end up a meal. Mediocrity is the key to a long life.\"\n\u2014Mogai, Silumgar noble",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cynthia Sheppard",
+  "artist_ids": [
+    "9dfbdd58-65e6-40cf-951a-80e141061939"
+  ],
+  "illustration_id": "636c6ad6-63f6-4d63-8c51-ffdb2bccde4c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 25457,
+  "penny_rank": 11632,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.27",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394746&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DYouthful%2BScholar",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DYouthful%2BScholar",
+    "edhrec": "https://edhrec.com/route/?cc=Youthful+Scholar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F96661%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=273329&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/56236?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "object": "card",
+  "id": "c048c3d1-a753-4242-bd4d-57f7f57e15d9",
+  "oracle_id": "8562a27c-f858-460c-a57e-2a45edb668b3",
+  "multiverse_ids": [],
+  "arena_id": 94213,
+  "name": "Awestruck Cygnet",
+  "lang": "en",
+  "released_at": "2024-08-20",
+  "uri": "https://api.scryfall.com/cards/c048c3d1-a753-4242-bd4d-57f7f57e15d9",
+  "scryfall_uri": "https://scryfall.com/card/yblb/1/awestruck-cygnet?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/0/c048c3d1-a753-4242-bd4d-57f7f57e15d9.jpg?1755555445",
+    "normal": "https://cards.scryfall.io/normal/front/c/0/c048c3d1-a753-4242-bd4d-57f7f57e15d9.jpg?1755555445",
+    "large": "https://cards.scryfall.io/large/front/c/0/c048c3d1-a753-4242-bd4d-57f7f57e15d9.jpg?1755555445",
+    "png": "https://cards.scryfall.io/png/front/c/0/c048c3d1-a753-4242-bd4d-57f7f57e15d9.png?1755555445",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c048c3d1-a753-4242-bd4d-57f7f57e15d9.jpg?1755555445",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/0/c048c3d1-a753-4242-bd4d-57f7f57e15d9.jpg?1755555445"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Bird Scout",
+  "oracle_text": "Starting intensity 0\nWhenever another creature you control with flying enters, if this creature is named Awestruck Cygnet, cards you own named Awestruck Cygnet intensify by 1.\nAs long as this card's intensity is 3 or more, it has base power and toughness 4/4, has flying and vigilance, and is named Radiant Swan.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Intensity"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "9425de98-cc10-4295-80e5-42a3bcb75453",
+  "set": "yblb",
+  "set_name": "Alchemy: Bloomburrow",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/9425de98-cc10-4295-80e5-42a3bcb75453",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ayblb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/yblb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c048c3d1-a753-4242-bd4d-57f7f57e15d9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8562a27c-f858-460c-a57e-2a45edb668b3&unique=prints",
+  "collector_number": "1",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Deruchenko Alexander",
+  "artist_ids": [
+    "806f6ff9-6ed4-4e93-998a-a562c0b792e6"
+  ],
+  "illustration_id": "b8ca1fcc-0154-48a7-9538-f69573489fc8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAwestruck%2BCygnet",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAwestruck%2BCygnet",
+    "edhrec": "https://edhrec.com/route/?cc=Awestruck+Cygnet"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "99009400-ffa4-40af-8305-78295ae605ac",
+  "oracle_id": "324d2aa8-6dea-4b0d-898d-1e52ed187565",
+  "multiverse_ids": [
+    636793
+  ],
+  "mtgo_id": 117982,
+  "arena_id": 87488,
+  "tcgplayer_id": 526309,
+  "cardmarket_id": 743985,
+  "name": "Acolyte of Aclazotz",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/99009400-ffa4-40af-8305-78295ae605ac",
+  "scryfall_uri": "https://scryfall.com/card/lci/89/acolyte-of-aclazotz?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/9/99009400-ffa4-40af-8305-78295ae605ac.jpg?1699044065",
+    "normal": "https://cards.scryfall.io/normal/front/9/9/99009400-ffa4-40af-8305-78295ae605ac.jpg?1699044065",
+    "large": "https://cards.scryfall.io/large/front/9/9/99009400-ffa4-40af-8305-78295ae605ac.jpg?1699044065",
+    "png": "https://cards.scryfall.io/png/front/9/9/99009400-ffa4-40af-8305-78295ae605ac.png?1699044065",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99009400-ffa4-40af-8305-78295ae605ac.jpg?1699044065",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/9/99009400-ffa4-40af-8305-78295ae605ac.jpg?1699044065"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Vampire Cleric",
+  "oracle_text": "{T}, Sacrifice another creature or artifact: Each opponent loses 1 life and you gain 1 life.",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/99009400-ffa4-40af-8305-78295ae605ac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A324d2aa8-6dea-4b0d-898d-1e52ed187565&unique=prints",
+  "collector_number": "89",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Great Aclazotz, receive this offering. Wrought with skill. Captured with strength. Anointed with the blood of your enemies.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Irina Nordsol",
+  "artist_ids": [
+    "1e4cb52d-476e-4c68-ac87-2e620aede6d4"
+  ],
+  "illustration_id": "a513a2f0-7756-4e7a-b608-17082aafbe3b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10170,
+  "penny_rank": 8632,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.16",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "0.12",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636793&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAcolyte%2Bof%2BAclazotz",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAcolyte%2Bof%2BAclazotz",
+    "edhrec": "https://edhrec.com/route/?cc=Acolyte+of+Aclazotz"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F526309%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=743985&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117982?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

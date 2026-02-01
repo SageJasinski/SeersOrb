@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "1e07a595-5579-4d5a-b07c-84239d690459",
+  "oracle_id": "3fa5e109-4a67-4523-8183-90e48a906400",
+  "multiverse_ids": [
+    380366
+  ],
+  "mtgo_id": 52182,
+  "mtgo_foil_id": 52183,
+  "tcgplayer_id": 82352,
+  "cardmarket_id": 266699,
+  "name": "Agent of Erebos",
+  "lang": "en",
+  "released_at": "2014-05-02",
+  "uri": "https://api.scryfall.com/cards/1e07a595-5579-4d5a-b07c-84239d690459",
+  "scryfall_uri": "https://scryfall.com/card/jou/59/agent-of-erebos?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/e/1e07a595-5579-4d5a-b07c-84239d690459.jpg?1593095620",
+    "normal": "https://cards.scryfall.io/normal/front/1/e/1e07a595-5579-4d5a-b07c-84239d690459.jpg?1593095620",
+    "large": "https://cards.scryfall.io/large/front/1/e/1e07a595-5579-4d5a-b07c-84239d690459.jpg?1593095620",
+    "png": "https://cards.scryfall.io/png/front/1/e/1e07a595-5579-4d5a-b07c-84239d690459.png?1593095620",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1e07a595-5579-4d5a-b07c-84239d690459.jpg?1593095620",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/e/1e07a595-5579-4d5a-b07c-84239d690459.jpg?1593095620"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Enchantment Creature \u2014 Zombie",
+  "oracle_text": "Constellation \u2014 Whenever this creature or another enchantment you control enters, exile target player's graveyard.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Constellation"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "204d2dca-1887-4721-9558-164aa7bbeb4f",
+  "set": "jou",
+  "set_name": "Journey into Nyx",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/204d2dca-1887-4721-9558-164aa7bbeb4f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajou&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jou?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1e07a595-5579-4d5a-b07c-84239d690459/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3fa5e109-4a67-4523-8183-90e48a906400&unique=prints",
+  "collector_number": "59",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Erebos's minions hunt the Returned and warn those who consider the same folly.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cyril Van Der Haegen",
+  "artist_ids": [
+    "90edbd2e-9462-4394-b0b4-02885b4e56b3"
+  ],
+  "illustration_id": "2989284a-d5d3-4f79-88bc-5efbbd2feeaa",
+  "border_color": "black",
+  "frame": "2003",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9288,
+  "penny_rank": 4954,
+  "prices": {
+    "usd": "0.29",
+    "usd_foil": "4.61",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "3.27",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380366&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAgent%2Bof%2BErebos",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAgent%2Bof%2BErebos",
+    "edhrec": "https://edhrec.com/route/?cc=Agent+of+Erebos"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F82352%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=266699&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/52182?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

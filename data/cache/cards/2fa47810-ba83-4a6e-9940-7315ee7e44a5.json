@@ -1,0 +1,147 @@
+{
+  "object": "card",
+  "id": "2fa47810-ba83-4a6e-9940-7315ee7e44a5",
+  "oracle_id": "05501e88-d4c3-4474-92a9-c02ab15b107b",
+  "multiverse_ids": [
+    651758
+  ],
+  "mtgo_id": 123354,
+  "tcgplayer_id": 534560,
+  "cardmarket_id": 752691,
+  "name": "Afterlife Insurance",
+  "lang": "en",
+  "released_at": "2024-02-23",
+  "uri": "https://api.scryfall.com/cards/2fa47810-ba83-4a6e-9940-7315ee7e44a5",
+  "scryfall_uri": "https://scryfall.com/card/clu/23/afterlife-insurance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/f/2fa47810-ba83-4a6e-9940-7315ee7e44a5.jpg?1706239623",
+    "normal": "https://cards.scryfall.io/normal/front/2/f/2fa47810-ba83-4a6e-9940-7315ee7e44a5.jpg?1706239623",
+    "large": "https://cards.scryfall.io/large/front/2/f/2fa47810-ba83-4a6e-9940-7315ee7e44a5.jpg?1706239623",
+    "png": "https://cards.scryfall.io/png/front/2/f/2fa47810-ba83-4a6e-9940-7315ee7e44a5.png?1706239623",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2fa47810-ba83-4a6e-9940-7315ee7e44a5.jpg?1706239623",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/f/2fa47810-ba83-4a6e-9940-7315ee7e44a5.jpg?1706239623"
+  },
+  "mana_cost": "{1}{W/B}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Creatures you control gain afterlife 1 until end of turn. Draw a card. (When a creature with afterlife 1 dies, create a 1/1 white and black Spirit creature token with flying.)",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2fa47810-ba83-4a6e-9940-7315ee7e44a5",
+      "component": "combo_piece",
+      "name": "Afterlife Insurance",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/2fa47810-ba83-4a6e-9940-7315ee7e44a5"
+    },
+    {
+      "object": "related_card",
+      "id": "f4588570-bde4-4c2f-8469-81a3e15fb57b",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature \u2014 Spirit",
+      "uri": "https://api.scryfall.com/cards/f4588570-bde4-4c2f-8469-81a3e15fb57b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d4bfabcf-a859-43a4-9d8a-665533c8b174",
+  "set": "clu",
+  "set_name": "Ravnica: Clue Edition",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d4bfabcf-a859-43a4-9d8a-665533c8b174",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2fa47810-ba83-4a6e-9940-7315ee7e44a5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05501e88-d4c3-4474-92a9-c02ab15b107b&unique=prints",
+  "collector_number": "23",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "orzhov",
+  "flavor_text": "As far as the Orzhov Syndicate is concerned, it is the height of irresponsibility not to have a plan for your own ghost.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Elizabeth Peir\u00f3",
+  "artist_ids": [
+    "154beecd-b9b8-4795-950c-de8de7434c43"
+  ],
+  "illustration_id": "28476245-38fe-4f88-8cca-4fbf20c4672b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7578,
+  "preview": {
+    "source": "IGN",
+    "source_uri": "https://www.ign.com/articles/magic-the-gathering-ravnica-clue-edition-spoilers-standalone-board-game",
+    "previewed_at": "2024-01-22"
+  },
+  "prices": {
+    "usd": "2.98",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "2.09",
+    "eur_foil": null,
+    "tix": "0.37"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=651758&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAfterlife%2BInsurance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAfterlife%2BInsurance",
+    "edhrec": "https://edhrec.com/route/?cc=Afterlife+Insurance"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F534560%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=752691&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123354?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

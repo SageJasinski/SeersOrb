@@ -1,0 +1,285 @@
+{% extends "base.html" %}
+
+{% block title %}Probability Analysis - Seer's Orb{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="page-header">
+        <h1 class="page-title">📊 Probability Analysis</h1>
+        <p class="page-subtitle">
+            Calculate exact probabilities using hypergeometric and multivariate distributions
+        </p>
+    </div>
+
+    <div class="probability-layout">
+        <!-- Single Card Probability -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Single Card Probability</h3>
+            </div>
+            <div class="card-body">
+                <p class="text-muted mb-md">
+                    What's the probability of drawing a specific card?
+                </p>
+
+                <div class="form-group">
+                    <label class="form-label">Deck Size</label>
+                    <input type="number" id="hyper-deck-size" class="form-input" value="99" min="1" max="400">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Copies in Deck</label>
+                    <input type="number" id="hyper-copies" class="form-input" value="1" min="1" max="99">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Cards Drawn</label>
+                    <input type="number" id="hyper-drawn" class="form-input" value="7" min="1" max="99">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Successes Wanted</label>
+                    <input type="number" id="hyper-successes" class="form-input" value="1" min="1" max="99">
+                </div>
+
+                <button class="btn btn-primary" id="calc-hyper-btn">Calculate</button>
+
+                <div id="hyper-results" class="results-panel hidden">
+                    <div class="result-item">
+                        <span class="result-label">Exactly</span>
+                        <span class="result-value" id="result-exactly">0%</span>
+                    </div>
+                    <div class="result-item highlight">
+                        <span class="result-label">At Least</span>
+                        <span class="result-value" id="result-at-least">0%</span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">At Most</span>
+                        <span class="result-value" id="result-at-most">0%</span>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="hyper-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Multi-Card Combo Probability -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Combo Probability</h3>
+            </div>
+            <div class="card-body">
+                <p class="text-muted mb-md">
+                    What's the probability of drawing multiple specific cards?
+                </p>
+
+                <div class="form-group">
+                    <label class="form-label">Deck Size</label>
+                    <input type="number" id="multi-deck-size" class="form-input" value="99" min="1" max="400">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Cards Drawn</label>
+                    <input type="number" id="multi-drawn" class="form-input" value="7" min="1" max="99">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Combo Pieces</label>
+                    <div id="combo-pieces">
+                        <div class="combo-piece">
+                            <input type="text" placeholder="Card name" class="form-input piece-name">
+                            <input type="number" value="1" min="1" max="4" class="form-input piece-copies"
+                                placeholder="Copies">
+                            <input type="number" value="1" min="1" max="4" class="form-input piece-need"
+                                placeholder="Need">
+                        </div>
+                    </div>
+                    <button class="btn btn-secondary btn-sm" id="add-piece-btn">+ Add Piece</button>
+                </div>
+
+                <button class="btn btn-primary" id="calc-multi-btn">Calculate</button>
+
+                <div id="multi-results" class="results-panel hidden">
+                    <div class="probability-display">
+                        <span class="probability-value" id="combo-probability">0</span>
+                        <span class="probability-unit">%</span>
+                    </div>
+                    <p class="text-muted text-center">
+                        Probability of having all combo pieces in hand
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Probability by Turn -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Probability by Turn</h3>
+            </div>
+            <div class="card-body">
+                <p class="text-muted mb-md">
+                    How likely are you to draw a card by each turn?
+                </p>
+
+                <div class="form-group">
+                    <label class="form-label">Deck Size</label>
+                    <input type="number" id="turn-deck-size" class="form-input" value="99" min="1" max="400">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Copies in Deck</label>
+                    <input type="number" id="turn-copies" class="form-input" value="1" min="1" max="99">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">On the Play?</label>
+                    <select id="turn-play-draw" class="form-select">
+                        <option value="play">On the Play</option>
+                        <option value="draw">On the Draw</option>
+                    </select>
+                </div>
+
+                <button class="btn btn-primary" id="calc-turn-btn">Calculate</button>
+
+                <div id="turn-results" class="results-panel hidden">
+                    <div class="chart-container">
+                        <canvas id="turn-chart"></canvas>
+                    </div>
+                    <div class="turn-table">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Turn</th>
+                                    <th>Cards Seen</th>
+                                    <th>Probability</th>
+                                </tr>
+                            </thead>
+                            <tbody id="turn-table-body">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Optimal Copies Calculator -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Optimal Copies</h3>
+            </div>
+            <div class="card-body">
+                <p class="text-muted mb-md">
+                    How many copies should you run to hit a target probability?
+                </p>
+
+                <div class="form-group">
+                    <label class="form-label">Deck Size</label>
+                    <input type="number" id="opt-deck-size" class="form-input" value="99" min="1" max="400">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Target Probability (%)</label>
+                    <input type="number" id="opt-target" class="form-input" value="80" min="1" max="100" step="5">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">By Cards Drawn</label>
+                    <input type="number" id="opt-drawn" class="form-input" value="7" min="1" max="99">
+                </div>
+
+                <button class="btn btn-primary" id="calc-opt-btn">Calculate</button>
+
+                <div id="opt-results" class="results-panel hidden">
+                    <div class="probability-display">
+                        <span class="probability-value" id="opt-copies">0</span>
+                        <span class="probability-unit">copies</span>
+                    </div>
+                    <p class="text-muted text-center" id="opt-actual">
+                        Actual probability: 0%
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .probability-layout {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--space-lg);
+    }
+
+    @media (max-width: 900px) {
+        .probability-layout {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .results-panel {
+        margin-top: var(--space-lg);
+        padding-top: var(--space-lg);
+        border-top: 1px solid var(--color-bg-tertiary);
+    }
+
+    .result-item {
+        display: flex;
+        justify-content: space-between;
+        padding: var(--space-sm) 0;
+        border-bottom: 1px solid var(--color-bg-tertiary);
+    }
+
+    .result-item.highlight {
+        background: var(--color-accent-subtle);
+        padding: var(--space-sm) var(--space-md);
+        margin: var(--space-sm) calc(-1 * var(--space-md));
+        border-radius: var(--radius-md);
+        border: none;
+    }
+
+    .result-label {
+        color: var(--color-text-secondary);
+    }
+
+    .result-value {
+        font-weight: 600;
+        color: var(--color-accent);
+        font-size: 1.125rem;
+    }
+
+    .combo-piece {
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr;
+        gap: var(--space-sm);
+        margin-bottom: var(--space-sm);
+    }
+
+    .turn-table {
+        margin-top: var(--space-lg);
+    }
+
+    .turn-table table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .turn-table th,
+    .turn-table td {
+        padding: var(--space-sm);
+        text-align: left;
+        border-bottom: 1px solid var(--color-bg-tertiary);
+    }
+
+    .turn-table th {
+        color: var(--color-text-muted);
+        font-size: 0.875rem;
+        font-weight: 500;
+    }
+</style>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/probability.js') }}"></script>
+{% endblock %}

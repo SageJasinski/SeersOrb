@@ -1,0 +1,158 @@
+{
+  "object": "card",
+  "id": "fa8654cf-431c-427b-b78f-0e48f6007e9e",
+  "oracle_id": "1b82312c-f748-4c36-8934-ecbcfc10cc7d",
+  "multiverse_ids": [
+    617028
+  ],
+  "mtgo_id": 112306,
+  "arena_id": 84890,
+  "tcgplayer_id": 499441,
+  "cardmarket_id": 717058,
+  "name": "Denethor, Ruling Steward",
+  "lang": "en",
+  "released_at": "2023-06-23",
+  "uri": "https://api.scryfall.com/cards/fa8654cf-431c-427b-b78f-0e48f6007e9e",
+  "scryfall_uri": "https://scryfall.com/card/ltr/198/denethor-ruling-steward?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/a/fa8654cf-431c-427b-b78f-0e48f6007e9e.jpg?1686969711",
+    "normal": "https://cards.scryfall.io/normal/front/f/a/fa8654cf-431c-427b-b78f-0e48f6007e9e.jpg?1686969711",
+    "large": "https://cards.scryfall.io/large/front/f/a/fa8654cf-431c-427b-b78f-0e48f6007e9e.jpg?1686969711",
+    "png": "https://cards.scryfall.io/png/front/f/a/fa8654cf-431c-427b-b78f-0e48f6007e9e.png?1686969711",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/a/fa8654cf-431c-427b-b78f-0e48f6007e9e.jpg?1686969711",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/a/fa8654cf-431c-427b-b78f-0e48f6007e9e.jpg?1686969711"
+  },
+  "mana_cost": "{1}{W}{B}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature \u2014 Human Noble",
+  "oracle_text": "At the beginning of your end step, if a creature died under your control this turn, create a 1/1 white Human Soldier creature token.\n{2}, Sacrifice another creature: Each opponent loses 1 life and you gain 1 life.",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6839fd15-5656-4006-a11b-d0e1cbea05b3",
+      "component": "combo_piece",
+      "name": "Denethor, Ruling Steward",
+      "type_line": "Legendary Creature \u2014 Human Noble",
+      "uri": "https://api.scryfall.com/cards/6839fd15-5656-4006-a11b-d0e1cbea05b3"
+    },
+    {
+      "object": "related_card",
+      "id": "a6181330-7521-4ec6-be6c-b35487c2d2d4",
+      "component": "token",
+      "name": "Human Soldier",
+      "type_line": "Token Creature \u2014 Human Soldier",
+      "uri": "https://api.scryfall.com/cards/a6181330-7521-4ec6-be6c-b35487c2d2d4"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "08078706-ac5d-439b-8f01-894d38751367",
+  "set": "ltr",
+  "set_name": "The Lord of the Rings: Tales of Middle-earth",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/08078706-ac5d-439b-8f01-894d38751367",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Altr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ltr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fa8654cf-431c-427b-b78f-0e48f6007e9e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b82312c-f748-4c36-8934-ecbcfc10cc7d&unique=prints",
+  "collector_number": "198",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Much must be risked in war.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Campbell White",
+  "artist_ids": [
+    "d281eab4-463a-4ba8-9039-8943737960a0"
+  ],
+  "illustration_id": "f685b69b-5a80-4509-af8c-97805d04ffb7",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 6243,
+  "preview": {
+    "source": "Entertainment Earth",
+    "source_uri": "https://twitter.com/EntEarth/status/1666566111465205763",
+    "previewed_at": "2023-06-07"
+  },
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.19",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617028&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDenethor%252C%2BRuling%2BSteward",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDenethor%252C%2BRuling%2BSteward",
+    "edhrec": "https://edhrec.com/route/?cc=Denethor%2C+Ruling+Steward"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F499441%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=717058&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/112306?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

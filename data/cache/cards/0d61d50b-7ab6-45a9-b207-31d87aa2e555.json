@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "0d61d50b-7ab6-45a9-b207-31d87aa2e555",
+  "oracle_id": "cae60cf8-cd64-4595-a4dd-946694cf2bb1",
+  "multiverse_ids": [
+    680712
+  ],
+  "mtgo_id": 134482,
+  "arena_id": 94001,
+  "tcgplayer_id": 590973,
+  "cardmarket_id": 795771,
+  "name": "Felidar Cub",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/0d61d50b-7ab6-45a9-b207-31d87aa2e555",
+  "scryfall_uri": "https://scryfall.com/card/fdn/573/felidar-cub?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/d/0d61d50b-7ab6-45a9-b207-31d87aa2e555.jpg?1730490776",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0d61d50b-7ab6-45a9-b207-31d87aa2e555.jpg?1730490776",
+    "large": "https://cards.scryfall.io/large/front/0/d/0d61d50b-7ab6-45a9-b207-31d87aa2e555.jpg?1730490776",
+    "png": "https://cards.scryfall.io/png/front/0/d/0d61d50b-7ab6-45a9-b207-31d87aa2e555.png?1730490776",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0d61d50b-7ab6-45a9-b207-31d87aa2e555.jpg?1730490776",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/d/0d61d50b-7ab6-45a9-b207-31d87aa2e555.jpg?1730490776"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Cat Beast",
+  "oracle_text": "Sacrifice this creature: Destroy target enchantment.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0d61d50b-7ab6-45a9-b207-31d87aa2e555/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acae60cf8-cd64-4595-a4dd-946694cf2bb1&unique=prints",
+  "collector_number": "573",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Felidars that make it through their first year of life can easily live to see a hundred years more.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "7f7e3305-e80d-4e87-b913-14b6e77bb8aa",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "startercollection"
+  ],
+  "edhrec_rank": 9538,
+  "penny_rank": 7044,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.16",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=680712&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFelidar%2BCub",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFelidar%2BCub",
+    "edhrec": "https://edhrec.com/route/?cc=Felidar+Cub"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F590973%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=795771&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/134482?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

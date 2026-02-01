@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "16e8b418-04af-4b99-b8fd-deb1fe21a61c",
+  "oracle_id": "34894b92-7ebd-49be-9a67-7dc6428aaab9",
+  "multiverse_ids": [
+    189646
+  ],
+  "mtgo_id": 32482,
+  "mtgo_foil_id": 32483,
+  "tcgplayer_id": 31716,
+  "cardmarket_id": 20916,
+  "name": "Defiler of Souls",
+  "lang": "en",
+  "released_at": "2009-04-30",
+  "uri": "https://api.scryfall.com/cards/16e8b418-04af-4b99-b8fd-deb1fe21a61c",
+  "scryfall_uri": "https://scryfall.com/card/arb/37/defiler-of-souls?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/6/16e8b418-04af-4b99-b8fd-deb1fe21a61c.jpg?1562639860",
+    "normal": "https://cards.scryfall.io/normal/front/1/6/16e8b418-04af-4b99-b8fd-deb1fe21a61c.jpg?1562639860",
+    "large": "https://cards.scryfall.io/large/front/1/6/16e8b418-04af-4b99-b8fd-deb1fe21a61c.jpg?1562639860",
+    "png": "https://cards.scryfall.io/png/front/1/6/16e8b418-04af-4b99-b8fd-deb1fe21a61c.png?1562639860",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/6/16e8b418-04af-4b99-b8fd-deb1fe21a61c.jpg?1562639860",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/6/16e8b418-04af-4b99-b8fd-deb1fe21a61c.jpg?1562639860"
+  },
+  "mana_cost": "{3}{B}{B}{R}",
+  "cmc": 6.0,
+  "type_line": "Creature \u2014 Demon",
+  "oracle_text": "Flying\nAt the beginning of each player's upkeep, that player sacrifices a monocolored creature of their choice.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "db486ec5-141d-4781-9ee5-5456926934c1",
+  "set": "arb",
+  "set_name": "Alara Reborn",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/db486ec5-141d-4781-9ee5-5456926934c1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aarb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/arb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/16e8b418-04af-4b99-b8fd-deb1fe21a61c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34894b92-7ebd-49be-9a67-7dc6428aaab9&unique=prints",
+  "collector_number": "37",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "\"Stray not into sin, lest you face the doorman of an insatiable tomb.\"\n\u2014Prayer of Asha",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Paul Bonner",
+  "artist_ids": [
+    "db74e463-9c78-4f45-80a9-efa5cc4f9841"
+  ],
+  "illustration_id": "4dfe9032-0814-4d1d-8167-b23e802c30aa",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21353,
+  "penny_rank": 14051,
+  "prices": {
+    "usd": "2.21",
+    "usd_foil": "6.47",
+    "usd_etched": null,
+    "eur": "1.34",
+    "eur_foil": "7.65",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189646&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDefiler%2Bof%2BSouls",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDefiler%2Bof%2BSouls",
+    "edhrec": "https://edhrec.com/route/?cc=Defiler+of+Souls"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F31716%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=20916&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/32482?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "c9045fcb-b633-4c35-8058-6234311551ae",
+  "oracle_id": "4a782bf9-4051-4613-8852-33b0d85a0edd",
+  "multiverse_ids": [
+    447142
+  ],
+  "mtgo_id": 68173,
+  "arena_id": 67692,
+  "tcgplayer_id": 169106,
+  "cardmarket_id": 360024,
+  "name": "Ajani's Welcome",
+  "lang": "en",
+  "released_at": "2018-07-13",
+  "uri": "https://api.scryfall.com/cards/c9045fcb-b633-4c35-8058-6234311551ae",
+  "scryfall_uri": "https://scryfall.com/card/m19/6/ajanis-welcome?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/9/c9045fcb-b633-4c35-8058-6234311551ae.jpg?1562304330",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c9045fcb-b633-4c35-8058-6234311551ae.jpg?1562304330",
+    "large": "https://cards.scryfall.io/large/front/c/9/c9045fcb-b633-4c35-8058-6234311551ae.jpg?1562304330",
+    "png": "https://cards.scryfall.io/png/front/c/9/c9045fcb-b633-4c35-8058-6234311551ae.png?1562304330",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c9045fcb-b633-4c35-8058-6234311551ae.jpg?1562304330",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c9045fcb-b633-4c35-8058-6234311551ae.jpg?1562304330"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a creature you control enters, you gain 1 life.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set": "m19",
+  "set_name": "Core Set 2019",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c9045fcb-b633-4c35-8058-6234311551ae/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a782bf9-4051-4613-8852-33b0d85a0edd&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"You cannot defend others if your own well-being is neglected.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "af56a6d4-d14d-403b-bca2-2f5f71aff977",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2682,
+  "prices": {
+    "usd": "2.10",
+    "usd_foil": "7.09",
+    "usd_etched": null,
+    "eur": "2.27",
+    "eur_foil": "6.67",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447142&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAjani%2527s%2BWelcome",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAjani%2527s%2BWelcome",
+    "edhrec": "https://edhrec.com/route/?cc=Ajani%27s+Welcome"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F169106%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=360024&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/68173?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

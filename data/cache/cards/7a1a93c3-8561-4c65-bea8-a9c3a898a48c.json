@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "7a1a93c3-8561-4c65-bea8-a9c3a898a48c",
+  "oracle_id": "94a4f70a-8aac-412a-99f0-933e3ff87fe0",
+  "multiverse_ids": [
+    489334
+  ],
+  "arena_id": 72239,
+  "tcgplayer_id": 216410,
+  "cardmarket_id": 473879,
+  "name": "Sigiled Starfish",
+  "lang": "en",
+  "released_at": "2020-07-17",
+  "uri": "https://api.scryfall.com/cards/7a1a93c3-8561-4c65-bea8-a9c3a898a48c",
+  "scryfall_uri": "https://scryfall.com/card/jmp/177/sigiled-starfish?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7a1a93c3-8561-4c65-bea8-a9c3a898a48c.jpg?1600698677",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7a1a93c3-8561-4c65-bea8-a9c3a898a48c.jpg?1600698677",
+    "large": "https://cards.scryfall.io/large/front/7/a/7a1a93c3-8561-4c65-bea8-a9c3a898a48c.jpg?1600698677",
+    "png": "https://cards.scryfall.io/png/front/7/a/7a1a93c3-8561-4c65-bea8-a9c3a898a48c.png?1600698677",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a1a93c3-8561-4c65-bea8-a9c3a898a48c.jpg?1600698677",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a1a93c3-8561-4c65-bea8-a9c3a898a48c.jpg?1600698677"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Starfish",
+  "oracle_text": "{T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+  "power": "0",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "0f6ccf25-a627-4263-86df-5757137f1696",
+  "set": "jmp",
+  "set_name": "Jumpstart",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/0f6ccf25-a627-4263-86df-5757137f1696",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ajmp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/jmp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7a1a93c3-8561-4c65-bea8-a9c3a898a48c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A94a4f70a-8aac-412a-99f0-933e3ff87fe0&unique=prints",
+  "collector_number": "177",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Kruphix hid the most dire prophecies about humankind where humans would never find them and tritons wouldn't care to read them.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "ab13cc23-1d4a-46fa-a066-d9727beb2036",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9208,
+  "penny_rank": 9761,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-06-19"
+  },
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489334&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSigiled%2BStarfish",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSigiled%2BStarfish",
+    "edhrec": "https://edhrec.com/route/?cc=Sigiled+Starfish"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F216410%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=473879&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sigiled+Starfish&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

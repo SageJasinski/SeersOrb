@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "e42c5234-7395-4c9f-a885-8b63cf02c5e8",
+  "oracle_id": "916bd025-c44f-49c9-8d76-4b7b2f9a8ba3",
+  "multiverse_ids": [
+    438665
+  ],
+  "mtgo_id": 66077,
+  "mtgo_foil_id": 66078,
+  "tcgplayer_id": 145468,
+  "cardmarket_id": 301598,
+  "name": "Night of Souls' Betrayal",
+  "lang": "en",
+  "released_at": "2017-11-17",
+  "uri": "https://api.scryfall.com/cards/e42c5234-7395-4c9f-a885-8b63cf02c5e8",
+  "scryfall_uri": "https://scryfall.com/card/ima/99/night-of-souls-betrayal?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/4/e42c5234-7395-4c9f-a885-8b63cf02c5e8.jpg?1588114615",
+    "normal": "https://cards.scryfall.io/normal/front/e/4/e42c5234-7395-4c9f-a885-8b63cf02c5e8.jpg?1588114615",
+    "large": "https://cards.scryfall.io/large/front/e/4/e42c5234-7395-4c9f-a885-8b63cf02c5e8.jpg?1588114615",
+    "png": "https://cards.scryfall.io/png/front/e/4/e42c5234-7395-4c9f-a885-8b63cf02c5e8.png?1588114615",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/4/e42c5234-7395-4c9f-a885-8b63cf02c5e8.jpg?1588114615",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/4/e42c5234-7395-4c9f-a885-8b63cf02c5e8.jpg?1588114615"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Legendary Enchantment",
+  "oracle_text": "All creatures get -1/-1.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "741bcd30-7709-4133-8919-f4b46483bed7",
+  "set": "ima",
+  "set_name": "Iconic Masters",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/741bcd30-7709-4133-8919-f4b46483bed7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aima&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ima?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e42c5234-7395-4c9f-a885-8b63cf02c5e8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A916bd025-c44f-49c9-8d76-4b7b2f9a8ba3&unique=prints",
+  "collector_number": "99",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"How can we wage war against ourselves? What happens when the kami of our very souls rise against us? I answer simply: We cannot. We die. There can be no victory in this war.\"\n\u2014Sensei Hisoka, letter to Lord Konda",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Staples",
+  "artist_ids": [
+    "93d65564-bf00-447b-8406-e2031f03b6b1"
+  ],
+  "illustration_id": "6811fdd6-aed2-45b4-9805-0b1001fa0d3d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9527,
+  "penny_rank": 1391,
+  "prices": {
+    "usd": "1.77",
+    "usd_foil": "2.13",
+    "usd_etched": null,
+    "eur": "0.35",
+    "eur_foil": "1.38",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438665&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNight%2Bof%2BSouls%2527%2BBetrayal",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNight%2Bof%2BSouls%2527%2BBetrayal",
+    "edhrec": "https://edhrec.com/route/?cc=Night+of+Souls%27+Betrayal"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F145468%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=301598&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/66077?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

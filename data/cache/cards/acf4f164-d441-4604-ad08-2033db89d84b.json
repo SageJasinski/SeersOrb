@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "acf4f164-d441-4604-ad08-2033db89d84b",
+  "oracle_id": "29b5cfcc-764c-402b-9221-ebc2ce87a70d",
+  "multiverse_ids": [],
+  "arena_id": 91336,
+  "name": "A-Llanowar Loamspeaker",
+  "lang": "en",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/acf4f164-d441-4604-ad08-2033db89d84b",
+  "scryfall_uri": "https://scryfall.com/card/dmu/A-170/a-llanowar-loamspeaker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/c/acf4f164-d441-4604-ad08-2033db89d84b.jpg?1705117532",
+    "normal": "https://cards.scryfall.io/normal/front/a/c/acf4f164-d441-4604-ad08-2033db89d84b.jpg?1705117532",
+    "large": "https://cards.scryfall.io/large/front/a/c/acf4f164-d441-4604-ad08-2033db89d84b.jpg?1705117532",
+    "png": "https://cards.scryfall.io/png/front/a/c/acf4f164-d441-4604-ad08-2033db89d84b.png?1705117532",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/c/acf4f164-d441-4604-ad08-2033db89d84b.jpg?1705117532",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/c/acf4f164-d441-4604-ad08-2033db89d84b.jpg?1705117532"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Elf Druid",
+  "oracle_text": "{T}: Add one mana of any color.\n{T}: Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land. Activate only as a sorcery.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5d0a1c0d-23cf-472e-a6b3-fd0c3905b4e4",
+      "component": "combo_piece",
+      "name": "Llanowar Loamspeaker",
+      "type_line": "Creature \u2014 Elf Druid",
+      "uri": "https://api.scryfall.com/cards/5d0a1c0d-23cf-472e-a6b3-fd0c3905b4e4"
+    },
+    {
+      "object": "related_card",
+      "id": "acf4f164-d441-4604-ad08-2033db89d84b",
+      "component": "combo_piece",
+      "name": "A-Llanowar Loamspeaker",
+      "type_line": "Creature \u2014 Elf Druid",
+      "uri": "https://api.scryfall.com/cards/acf4f164-d441-4604-ad08-2033db89d84b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/acf4f164-d441-4604-ad08-2033db89d84b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A29b5cfcc-764c-402b-9221-ebc2ce87a70d&unique=prints",
+  "collector_number": "A-170",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zara Alfonso",
+  "artist_ids": [
+    "329a7971-c37e-47f7-9143-58dc929420a7"
+  ],
+  "illustration_id": "62d7a926-e897-4f89-90db-8f12d42d8372",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced",
+    "alchemy"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Llanowar%2BLoamspeaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Llanowar%2BLoamspeaker",
+    "edhrec": "https://edhrec.com/route/?cc=A-Llanowar+Loamspeaker"
+  }
+}

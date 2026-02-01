@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "4c28a60a-8b2b-45f5-b46e-c0c50218b239",
+  "oracle_id": "e88f6b45-0cde-4fd4-80f0-f252f6fd59fa",
+  "multiverse_ids": [
+    479431
+  ],
+  "tcgplayer_id": 208577,
+  "cardmarket_id": 438304,
+  "name": "Infernal Spawn of Evil",
+  "lang": "en",
+  "released_at": "2020-02-29",
+  "uri": "https://api.scryfall.com/cards/4c28a60a-8b2b-45f5-b46e-c0c50218b239",
+  "scryfall_uri": "https://scryfall.com/card/und/38/infernal-spawn-of-evil?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/c/4c28a60a-8b2b-45f5-b46e-c0c50218b239.jpg?1595075792",
+    "normal": "https://cards.scryfall.io/normal/front/4/c/4c28a60a-8b2b-45f5-b46e-c0c50218b239.jpg?1595075792",
+    "large": "https://cards.scryfall.io/large/front/4/c/4c28a60a-8b2b-45f5-b46e-c0c50218b239.jpg?1595075792",
+    "png": "https://cards.scryfall.io/png/front/4/c/4c28a60a-8b2b-45f5-b46e-c0c50218b239.png?1595075792",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/c/4c28a60a-8b2b-45f5-b46e-c0c50218b239.jpg?1595075792",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4c28a60a-8b2b-45f5-b46e-c0c50218b239.jpg?1595075792"
+  },
+  "mana_cost": "{6}{B}{B}{B}",
+  "cmc": 9.0,
+  "type_line": "Creature \u2014 Beast",
+  "oracle_text": "Flying, first strike\n{1}{B}, Reveal this card from your hand, Say \"It's coming\": This card deals 1 damage to target opponent or planeswalker. Activate only during your upkeep and only once each turn.",
+  "power": "7",
+  "toughness": "7",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "First strike"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "df2c80d5-960b-4624-9b3e-96943d7b4144",
+      "component": "combo_piece",
+      "name": "Infernal Spawn of Infernal Spawn of Evil",
+      "type_line": "Creature \u2014 Demon Child",
+      "uri": "https://api.scryfall.com/cards/df2c80d5-960b-4624-9b3e-96943d7b4144"
+    },
+    {
+      "object": "related_card",
+      "id": "5e3b1317-f024-4e34-89ad-538fc148cd5c",
+      "component": "combo_piece",
+      "name": "Infernius Spawnington III, Esq.",
+      "type_line": "Creature \u2014 Demon Beast Grandchild",
+      "uri": "https://api.scryfall.com/cards/5e3b1317-f024-4e34-89ad-538fc148cd5c"
+    },
+    {
+      "object": "related_card",
+      "id": "4c28a60a-8b2b-45f5-b46e-c0c50218b239",
+      "component": "combo_piece",
+      "name": "Infernal Spawn of Evil",
+      "type_line": "Creature \u2014 Beast",
+      "uri": "https://api.scryfall.com/cards/4c28a60a-8b2b-45f5-b46e-c0c50218b239"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "fccfdf97-f5f2-43b4-9be9-9255414e6633",
+  "set": "und",
+  "set_name": "Unsanctioned",
+  "set_type": "funny",
+  "set_uri": "https://api.scryfall.com/sets/fccfdf97-f5f2-43b4-9be9-9255414e6633",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aund&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/und?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4c28a60a-8b2b-45f5-b46e-c0c50218b239/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae88f6b45-0cde-4fd4-80f0-f252f6fd59fa&unique=prints",
+  "collector_number": "38",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ron Spencer",
+  "artist_ids": [
+    "dab52c11-0564-4207-a4a1-c1735c946a65"
+  ],
+  "illustration_id": "22da634f-d647-458c-87c8-689dba269284",
+  "border_color": "silver",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479431&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInfernal%2BSpawn%2Bof%2BEvil",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInfernal%2BSpawn%2Bof%2BEvil",
+    "edhrec": "https://edhrec.com/route/?cc=Infernal+Spawn+of+Evil"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F208577%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=438304&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Infernal+Spawn+of+Evil&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

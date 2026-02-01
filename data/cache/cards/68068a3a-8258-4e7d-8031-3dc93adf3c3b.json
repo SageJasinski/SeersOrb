@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "68068a3a-8258-4e7d-8031-3dc93adf3c3b",
+  "oracle_id": "33115373-bd63-463c-a50e-0af090f8dc85",
+  "multiverse_ids": [],
+  "arena_id": 84110,
+  "name": "A-Jackhammer",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/68068a3a-8258-4e7d-8031-3dc93adf3c3b",
+  "scryfall_uri": "https://scryfall.com/card/snc/A-111/a-jackhammer?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/8/68068a3a-8258-4e7d-8031-3dc93adf3c3b.jpg?1681158917",
+    "normal": "https://cards.scryfall.io/normal/front/6/8/68068a3a-8258-4e7d-8031-3dc93adf3c3b.jpg?1681158917",
+    "large": "https://cards.scryfall.io/large/front/6/8/68068a3a-8258-4e7d-8031-3dc93adf3c3b.jpg?1681158917",
+    "png": "https://cards.scryfall.io/png/front/6/8/68068a3a-8258-4e7d-8031-3dc93adf3c3b.png?1681158917",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/68068a3a-8258-4e7d-8031-3dc93adf3c3b.jpg?1681158917",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/68068a3a-8258-4e7d-8031-3dc93adf3c3b.jpg?1681158917"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1.0,
+  "type_line": "Artifact \u2014 Equipment",
+  "oracle_text": "Equipped creature gets +2/+0.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Equip"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "68068a3a-8258-4e7d-8031-3dc93adf3c3b",
+      "component": "combo_piece",
+      "name": "A-Jackhammer",
+      "type_line": "Artifact \u2014 Equipment",
+      "uri": "https://api.scryfall.com/cards/68068a3a-8258-4e7d-8031-3dc93adf3c3b"
+    },
+    {
+      "object": "related_card",
+      "id": "d74ba9fe-2dcb-4da7-ba64-cd932edb5b24",
+      "component": "combo_piece",
+      "name": "Jackhammer",
+      "type_line": "Artifact \u2014 Equipment",
+      "uri": "https://api.scryfall.com/cards/d74ba9fe-2dcb-4da7-ba64-cd932edb5b24"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/68068a3a-8258-4e7d-8031-3dc93adf3c3b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A33115373-bd63-463c-a50e-0af090f8dc85&unique=prints",
+  "collector_number": "A-111",
+  "digital": true,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Severin Brassell",
+  "artist_ids": [
+    "a4f50310-4b01-4cd3-8ab8-85b31e6876db"
+  ],
+  "illustration_id": "aa81e625-5af9-47a1-9c33-ba9530b13062",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced",
+    "alchemy"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Jackhammer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Jackhammer",
+    "edhrec": "https://edhrec.com/route/?cc=A-Jackhammer"
+  }
+}

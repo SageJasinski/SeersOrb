@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "ca2b008e-e144-45b1-9bc7-eb49e03a8a8f",
+  "oracle_id": "f2f8847d-17a8-4c26-8a7a-1bb6c02f2b39",
+  "multiverse_ids": [
+    658616
+  ],
+  "mtgo_id": 124803,
+  "tcgplayer_id": 545337,
+  "cardmarket_id": 764939,
+  "name": "Laurine, the Diversion",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f",
+  "scryfall_uri": "https://scryfall.com/card/otc/172/laurine-the-diversion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/a/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f.jpg?1712354458",
+    "normal": "https://cards.scryfall.io/normal/front/c/a/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f.jpg?1712354458",
+    "large": "https://cards.scryfall.io/large/front/c/a/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f.jpg?1712354458",
+    "png": "https://cards.scryfall.io/png/front/c/a/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f.png?1712354458",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/a/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f.jpg?1712354458",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/a/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f.jpg?1712354458"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature \u2014 Human Rogue",
+  "oracle_text": "Partner with Kamber, the Plunderer (When this creature enters, target player may put Kamber into their hand from their library, then shuffle.)\nFirst strike\n{2}, Sacrifice an artifact or creature: Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Partner with",
+    "Goad",
+    "First strike",
+    "Partner"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "fc7714b3-bcbd-4a63-b517-53166e3facb1",
+      "component": "combo_piece",
+      "name": "Kamber, the Plunderer",
+      "type_line": "Legendary Creature \u2014 Vampire Rogue",
+      "uri": "https://api.scryfall.com/cards/fc7714b3-bcbd-4a63-b517-53166e3facb1"
+    },
+    {
+      "object": "related_card",
+      "id": "ca2b008e-e144-45b1-9bc7-eb49e03a8a8f",
+      "component": "combo_piece",
+      "name": "Laurine, the Diversion",
+      "type_line": "Legendary Creature \u2014 Human Rogue",
+      "uri": "https://api.scryfall.com/cards/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ca2b008e-e144-45b1-9bc7-eb49e03a8a8f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af2f8847d-17a8-4c26-8a7a-1bb6c02f2b39&unique=prints",
+  "collector_number": "172",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrey Kuzinskiy",
+  "artist_ids": [
+    "c04ff0b2-67a1-4238-82f7-6c67de734b56"
+  ],
+  "illustration_id": "5e422a4e-f982-482b-96e4-3e405497d78b",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 11091,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": null,
+    "tix": "1.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658616&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLaurine%252C%2Bthe%2BDiversion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLaurine%252C%2Bthe%2BDiversion",
+    "edhrec": "https://edhrec.com/route/?cc=Laurine%2C+the+Diversion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F545337%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=764939&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/124803?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "f47054d9-ab6c-4d66-8744-b458721a6c98",
+  "oracle_id": "4364bef8-f7ec-487c-9b64-b55c4afb864e",
+  "multiverse_ids": [
+    83152
+  ],
+  "mtgo_id": 22893,
+  "mtgo_foil_id": 22894,
+  "tcgplayer_id": 12719,
+  "cardmarket_id": 12429,
+  "name": "Llanowar Behemoth",
+  "lang": "en",
+  "released_at": "2005-07-29",
+  "uri": "https://api.scryfall.com/cards/f47054d9-ab6c-4d66-8744-b458721a6c98",
+  "scryfall_uri": "https://scryfall.com/card/9ed/252/llanowar-behemoth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/4/f47054d9-ab6c-4d66-8744-b458721a6c98.jpg?1562743992",
+    "normal": "https://cards.scryfall.io/normal/front/f/4/f47054d9-ab6c-4d66-8744-b458721a6c98.jpg?1562743992",
+    "large": "https://cards.scryfall.io/large/front/f/4/f47054d9-ab6c-4d66-8744-b458721a6c98.jpg?1562743992",
+    "png": "https://cards.scryfall.io/png/front/f/4/f47054d9-ab6c-4d66-8744-b458721a6c98.png?1562743992",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f47054d9-ab6c-4d66-8744-b458721a6c98.jpg?1562743992",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f47054d9-ab6c-4d66-8744-b458721a6c98.jpg?1562743992"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Creature \u2014 Elemental",
+  "oracle_text": "Tap an untapped creature you control: This creature gets +1/+1 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e70c8572-4732-4e92-a140-b4e3c1c84c93",
+  "set": "9ed",
+  "set_name": "Ninth Edition",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/e70c8572-4732-4e92-a140-b4e3c1c84c93",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A9ed&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/9ed?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f47054d9-ab6c-4d66-8744-b458721a6c98/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4364bef8-f7ec-487c-9b64-b55c4afb864e&unique=prints",
+  "collector_number": "252",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Most people can't build decent weapons out of stone or steel. Trust the elves to do it with only mud and vines.\"\n\u2014Gerrard of the *Weatherlight*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "acbc4d4d-8be2-43d3-a149-8531e0cc3d6f",
+  "border_color": "white",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 28617,
+  "prices": {
+    "usd": "0.47",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": null,
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83152&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLlanowar%2BBehemoth",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLlanowar%2BBehemoth",
+    "edhrec": "https://edhrec.com/route/?cc=Llanowar+Behemoth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F12719%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=12429&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/22893?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

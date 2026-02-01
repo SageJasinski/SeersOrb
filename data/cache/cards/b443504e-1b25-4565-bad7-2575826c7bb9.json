@@ -1,0 +1,169 @@
+{
+  "object": "card",
+  "id": "b443504e-1b25-4565-bad7-2575826c7bb9",
+  "oracle_id": "2d6186a6-5236-4fb9-bcb6-f6825b148886",
+  "multiverse_ids": [],
+  "arena_id": 75077,
+  "name": "A-Alrund, God of the Cosmos // A-Hakka, Whispering Raven",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/b443504e-1b25-4565-bad7-2575826c7bb9",
+  "scryfall_uri": "https://scryfall.com/card/khm/A-40/a-alrund-god-of-the-cosmos-a-hakka-whispering-raven?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": false,
+  "image_status": "lowres",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature \u2014 God // Legendary Creature \u2014 Bird",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry",
+    "Flying"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "A-Alrund, God of the Cosmos",
+      "mana_cost": "{3}{U}{U}",
+      "type_line": "Legendary Creature \u2014 God",
+      "oracle_text": "Alrund gets +1/+1 for each card in your hand and each foretold card you own in exile.\nAt the beginning of your end step, choose a card type, then reveal the top three cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "colors": [
+        "U"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "artist": "Kieran Yanner",
+      "artist_id": "aa7e89ed-d294-4633-9057-ce04dacfcfa4",
+      "illustration_id": "7f3f962c-c543-4879-aa67-8ba75aa182a8",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898",
+        "normal": "https://cards.scryfall.io/normal/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898",
+        "large": "https://cards.scryfall.io/large/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898",
+        "png": "https://cards.scryfall.io/png/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.png?1761146898",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "A-Hakka, Whispering Raven",
+      "mana_cost": "{1}{U}",
+      "type_line": "Legendary Creature \u2014 Bird",
+      "oracle_text": "Flying\nWhenever Hakka, Whispering Raven deals combat damage to a player, return it to its owner's hand, then scry 2.",
+      "colors": [
+        "U"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "artist": "Kieran Yanner",
+      "artist_id": "aa7e89ed-d294-4633-9057-ce04dacfcfa4",
+      "illustration_id": "580be266-5f4c-4c30-adbd-58993cf8149f",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898",
+        "normal": "https://cards.scryfall.io/normal/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898",
+        "large": "https://cards.scryfall.io/large/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898",
+        "png": "https://cards.scryfall.io/png/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.png?1761146898",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/b/4/b443504e-1b25-4565-bad7-2575826c7bb9.jpg?1761146898"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b751cf69-0a02-4cd2-abd4-cdb65ca620a8",
+      "component": "combo_piece",
+      "name": "Alrund, God of the Cosmos // Hakka, Whispering Raven",
+      "type_line": "Legendary Creature \u2014 God // Legendary Creature \u2014 Bird",
+      "uri": "https://api.scryfall.com/cards/b751cf69-0a02-4cd2-abd4-cdb65ca620a8"
+    },
+    {
+      "object": "related_card",
+      "id": "b443504e-1b25-4565-bad7-2575826c7bb9",
+      "component": "combo_piece",
+      "name": "A-Alrund, God of the Cosmos // A-Hakka, Whispering Raven",
+      "type_line": "Legendary Creature \u2014 God // Legendary Creature \u2014 Bird",
+      "uri": "https://api.scryfall.com/cards/b443504e-1b25-4565-bad7-2575826c7bb9"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set": "khm",
+  "set_name": "Kaldheim",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b443504e-1b25-4565-bad7-2575826c7bb9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2d6186a6-5236-4fb9-bcb6-f6825b148886&unique=prints",
+  "collector_number": "A-40",
+  "digital": true,
+  "rarity": "mythic",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced",
+    "alchemy"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Alrund%252C%2BGod%2Bof%2Bthe%2BCosmos%2B%252F%252F%2BA-Hakka%252C%2BWhispering%2BRaven",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Alrund%252C%2BGod%2Bof%2Bthe%2BCosmos%2B%252F%252F%2BA-Hakka%252C%2BWhispering%2BRaven",
+    "edhrec": "https://edhrec.com/route/?cc=A-Alrund%2C+God+of+the+Cosmos"
+  }
+}

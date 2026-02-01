@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "8f72382e-920b-4695-a91c-4980c8c37a12",
+  "oracle_id": "222617bf-d32d-4e73-b465-73ef2eae30ed",
+  "multiverse_ids": [],
+  "arena_id": 78838,
+  "name": "A-Cobbled Lancer",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/8f72382e-920b-4695-a91c-4980c8c37a12",
+  "scryfall_uri": "https://scryfall.com/card/vow/A-52/a-cobbled-lancer?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/f/8f72382e-920b-4695-a91c-4980c8c37a12.jpg?1681158512",
+    "normal": "https://cards.scryfall.io/normal/front/8/f/8f72382e-920b-4695-a91c-4980c8c37a12.jpg?1681158512",
+    "large": "https://cards.scryfall.io/large/front/8/f/8f72382e-920b-4695-a91c-4980c8c37a12.jpg?1681158512",
+    "png": "https://cards.scryfall.io/png/front/8/f/8f72382e-920b-4695-a91c-4980c8c37a12.png?1681158512",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/f/8f72382e-920b-4695-a91c-4980c8c37a12.jpg?1681158512",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/f/8f72382e-920b-4695-a91c-4980c8c37a12.jpg?1681158512"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Zombie Horse",
+  "oracle_text": "As an additional cost to cast this spell, exile a creature card from your graveyard.\n{1}{U}, Exile Cobbled Lancer from your graveyard: Draw a card.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4a2d3ba4-07c7-46bd-8241-0fa41105b771",
+      "component": "combo_piece",
+      "name": "Cobbled Lancer",
+      "type_line": "Creature \u2014 Zombie Horse",
+      "uri": "https://api.scryfall.com/cards/4a2d3ba4-07c7-46bd-8241-0fa41105b771"
+    },
+    {
+      "object": "related_card",
+      "id": "8f72382e-920b-4695-a91c-4980c8c37a12",
+      "component": "combo_piece",
+      "name": "A-Cobbled Lancer",
+      "type_line": "Creature \u2014 Zombie Horse",
+      "uri": "https://api.scryfall.com/cards/8f72382e-920b-4695-a91c-4980c8c37a12"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8f72382e-920b-4695-a91c-4980c8c37a12/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A222617bf-d32d-4e73-b465-73ef2eae30ed&unique=prints",
+  "collector_number": "A-52",
+  "digital": true,
+  "rarity": "uncommon",
+  "flavor_text": "\"Don't worry everyone\u2014I hear hoofbeats! The Gavony Riders are coming to save us!\"\n\u2014Adin, Moorland villager",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "cd3bd29f-aa5e-4395-800f-cf8cdb68c2f8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced",
+    "alchemy"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Cobbled%2BLancer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Cobbled%2BLancer",
+    "edhrec": "https://edhrec.com/route/?cc=A-Cobbled+Lancer"
+  }
+}

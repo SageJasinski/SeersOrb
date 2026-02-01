@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "4c565076-5db2-47ea-8ee0-4a4fd7bb353d",
+  "oracle_id": "b25bea73-7444-4ee2-8022-611461506117",
+  "multiverse_ids": [
+    447139
+  ],
+  "mtgo_id": 68167,
+  "arena_id": 67686,
+  "tcgplayer_id": 168680,
+  "cardmarket_id": 359858,
+  "name": "Ajani, Adversary of Tyrants",
+  "lang": "en",
+  "released_at": "2018-07-13",
+  "uri": "https://api.scryfall.com/cards/4c565076-5db2-47ea-8ee0-4a4fd7bb353d",
+  "scryfall_uri": "https://scryfall.com/card/m19/3/ajani-adversary-of-tyrants?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/c/4c565076-5db2-47ea-8ee0-4a4fd7bb353d.jpg?1562302134",
+    "normal": "https://cards.scryfall.io/normal/front/4/c/4c565076-5db2-47ea-8ee0-4a4fd7bb353d.jpg?1562302134",
+    "large": "https://cards.scryfall.io/large/front/4/c/4c565076-5db2-47ea-8ee0-4a4fd7bb353d.jpg?1562302134",
+    "png": "https://cards.scryfall.io/png/front/4/c/4c565076-5db2-47ea-8ee0-4a4fd7bb353d.png?1562302134",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/c/4c565076-5db2-47ea-8ee0-4a4fd7bb353d.jpg?1562302134",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/c/4c565076-5db2-47ea-8ee0-4a4fd7bb353d.jpg?1562302134"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4.0,
+  "type_line": "Legendary Planeswalker \u2014 Ajani",
+  "oracle_text": "+1: Put a +1/+1 counter on each of up to two target creatures.\n\u22122: Return target creature card with mana value 2 or less from your graveyard to the battlefield.\n\u22127: You get an emblem with \"At the beginning of your end step, create three 1/1 white Cat creature tokens with lifelink.\"",
+  "loyalty": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "b31f1580-5bba-4cef-b0c8-f2837a597b7d",
+      "component": "token",
+      "name": "Cat",
+      "type_line": "Token Creature \u2014 Cat",
+      "uri": "https://api.scryfall.com/cards/b31f1580-5bba-4cef-b0c8-f2837a597b7d"
+    },
+    {
+      "object": "related_card",
+      "id": "1c97e5b2-a024-4aa7-a9b8-45f441aad138",
+      "component": "combo_piece",
+      "name": "Ajani, Adversary of Tyrants Emblem",
+      "type_line": "Emblem \u2014 Ajani",
+      "uri": "https://api.scryfall.com/cards/1c97e5b2-a024-4aa7-a9b8-45f441aad138"
+    },
+    {
+      "object": "related_card",
+      "id": "4c565076-5db2-47ea-8ee0-4a4fd7bb353d",
+      "component": "combo_piece",
+      "name": "Ajani, Adversary of Tyrants",
+      "type_line": "Legendary Planeswalker \u2014 Ajani",
+      "uri": "https://api.scryfall.com/cards/4c565076-5db2-47ea-8ee0-4a4fd7bb353d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set": "m19",
+  "set_name": "Core Set 2019",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4c565076-5db2-47ea-8ee0-4a4fd7bb353d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab25bea73-7444-4ee2-8022-611461506117&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Victor Adame Minguez",
+  "artist_ids": [
+    "bd8f7368-5b10-4554-b6b8-d052c6aca89f"
+  ],
+  "illustration_id": "899a1c07-c620-4fcc-8978-e7a8d4233404",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8146,
+  "penny_rank": 2794,
+  "prices": {
+    "usd": "2.03",
+    "usd_foil": "7.19",
+    "usd_etched": null,
+    "eur": "1.50",
+    "eur_foil": "5.68",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447139&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAjani%252C%2BAdversary%2Bof%2BTyrants",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAjani%252C%2BAdversary%2Bof%2BTyrants",
+    "edhrec": "https://edhrec.com/route/?cc=Ajani%2C+Adversary+of+Tyrants"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F168680%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=359858&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/68167?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

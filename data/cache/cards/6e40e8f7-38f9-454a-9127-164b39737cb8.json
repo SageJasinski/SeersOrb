@@ -1,0 +1,172 @@
+{
+  "object": "card",
+  "id": "6e40e8f7-38f9-454a-9127-164b39737cb8",
+  "oracle_id": "ee12e2e0-7eda-4f5e-9373-d4c029995adb",
+  "multiverse_ids": [],
+  "arena_id": 85649,
+  "name": "A-Binding Geist // A-Spectral Binding",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/6e40e8f7-38f9-454a-9127-164b39737cb8",
+  "scryfall_uri": "https://scryfall.com/card/vow/A-48/a-binding-geist-a-spectral-binding?utm_source=api",
+  "layout": "transform",
+  "highres_image": false,
+  "image_status": "lowres",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Spirit // Enchantment \u2014 Aura",
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Transform",
+    "Enchant",
+    "Disturb"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "A-Binding Geist",
+      "mana_cost": "{1}{U}",
+      "type_line": "Creature \u2014 Spirit",
+      "oracle_text": "Whenever Binding Geist attacks, target creature an opponent controls gets -2/-0 until your next turn.\nDisturb {U} (You may cast this card from your graveyard transformed for its disturb cost.)",
+      "colors": [
+        "U"
+      ],
+      "power": "2",
+      "toughness": "1",
+      "artist": "Campbell White",
+      "artist_id": "d281eab4-463a-4ba8-9039-8943737960a0",
+      "illustration_id": "5bd0f4d9-6527-4d6d-b381-ddf3a7e98b4e",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004",
+        "normal": "https://cards.scryfall.io/normal/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004",
+        "large": "https://cards.scryfall.io/large/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004",
+        "png": "https://cards.scryfall.io/png/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.png?1706482004",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "A-Spectral Binding",
+      "mana_cost": "",
+      "type_line": "Enchantment \u2014 Aura",
+      "oracle_text": "Enchant creature\nEnchanted creature gets -2/-0.\nIf Spectral Binding would be put into a graveyard from anywhere, exile it instead.",
+      "colors": [
+        "U"
+      ],
+      "color_indicator": [
+        "U"
+      ],
+      "artist": "Campbell White",
+      "artist_id": "d281eab4-463a-4ba8-9039-8943737960a0",
+      "illustration_id": "e66a894d-13ad-4106-9941-90a6737d1f08",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004",
+        "normal": "https://cards.scryfall.io/normal/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004",
+        "large": "https://cards.scryfall.io/large/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004",
+        "png": "https://cards.scryfall.io/png/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.png?1706482004",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/6/e/6e40e8f7-38f9-454a-9127-164b39737cb8.jpg?1706482004"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "730e4629-dc54-415d-9493-88885788ca19",
+      "component": "combo_piece",
+      "name": "Binding Geist // Spectral Binding",
+      "type_line": "Creature \u2014 Spirit // Enchantment \u2014 Aura",
+      "uri": "https://api.scryfall.com/cards/730e4629-dc54-415d-9493-88885788ca19"
+    },
+    {
+      "object": "related_card",
+      "id": "6e40e8f7-38f9-454a-9127-164b39737cb8",
+      "component": "combo_piece",
+      "name": "A-Binding Geist // A-Spectral Binding",
+      "type_line": "Creature \u2014 Spirit // Enchantment \u2014 Aura",
+      "uri": "https://api.scryfall.com/cards/6e40e8f7-38f9-454a-9127-164b39737cb8"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6e40e8f7-38f9-454a-9127-164b39737cb8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee12e2e0-7eda-4f5e-9373-d4c029995adb&unique=prints",
+  "collector_number": "A-48",
+  "digital": true,
+  "rarity": "common",
+  "artist": "Campbell White",
+  "artist_ids": [
+    "d281eab4-463a-4ba8-9039-8943737960a0"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "sunmoondfc"
+  ],
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced",
+    "alchemy"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Binding%2BGeist%2B%252F%252F%2BA-Spectral%2BBinding",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Binding%2BGeist%2B%252F%252F%2BA-Spectral%2BBinding",
+    "edhrec": "https://edhrec.com/route/?cc=A-Binding+Geist"
+  }
+}

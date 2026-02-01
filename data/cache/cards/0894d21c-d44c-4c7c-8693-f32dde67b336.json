@@ -1,0 +1,152 @@
+{
+  "object": "card",
+  "id": "0894d21c-d44c-4c7c-8693-f32dde67b336",
+  "oracle_id": "b48e7e87-3adf-417d-b93b-bf67ad6cbf1d",
+  "multiverse_ids": [
+    580851
+  ],
+  "mtgo_id": 108530,
+  "tcgplayer_id": 286538,
+  "cardmarket_id": 675716,
+  "name": "Arco-Flagellant",
+  "lang": "en",
+  "released_at": "2022-10-07",
+  "uri": "https://api.scryfall.com/cards/0894d21c-d44c-4c7c-8693-f32dde67b336",
+  "scryfall_uri": "https://scryfall.com/card/40k/29/arco-flagellant?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/8/0894d21c-d44c-4c7c-8693-f32dde67b336.jpg?1673308614",
+    "normal": "https://cards.scryfall.io/normal/front/0/8/0894d21c-d44c-4c7c-8693-f32dde67b336.jpg?1673308614",
+    "large": "https://cards.scryfall.io/large/front/0/8/0894d21c-d44c-4c7c-8693-f32dde67b336.jpg?1673308614",
+    "png": "https://cards.scryfall.io/png/front/0/8/0894d21c-d44c-4c7c-8693-f32dde67b336.png?1673308614",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/8/0894d21c-d44c-4c7c-8693-f32dde67b336.jpg?1673308614",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/8/0894d21c-d44c-4c7c-8693-f32dde67b336.jpg?1673308614"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Human",
+  "oracle_text": "Squad {2} (As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)\nThis creature can't block.\nEndurant \u2014 Pay 3 life: This creature gains indestructible until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Endurant",
+    "Squad"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "acb3325d-0b43-471b-9311-1c5ba14b06cf",
+      "component": "token",
+      "name": "Arco-Flagellant",
+      "type_line": "Token Creature \u2014 Human",
+      "uri": "https://api.scryfall.com/cards/acb3325d-0b43-471b-9311-1c5ba14b06cf"
+    },
+    {
+      "object": "related_card",
+      "id": "b6e2a217-a857-4c62-aa39-e72a95094ddb",
+      "component": "combo_piece",
+      "name": "Arco-Flagellant",
+      "type_line": "Creature \u2014 Human",
+      "uri": "https://api.scryfall.com/cards/b6e2a217-a857-4c62-aa39-e72a95094ddb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "set": "40k",
+  "set_name": "Warhammer 40,000 Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/f35f5dd8-5b95-4f52-bbe7-1c62909a8d08",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A40k&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/40k?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0894d21c-d44c-4c7c-8693-f32dde67b336/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab48e7e87-3adf-417d-b93b-bf67ad6cbf1d&unique=prints",
+  "collector_number": "29",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Games Workshop",
+  "artist_ids": [
+    "9456da4e-410b-4932-8bf3-a69a2da3cdc9"
+  ],
+  "illustration_id": "a45e254f-7ca2-4bf0-aed8-d75886cd8519",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "triangle",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "universesbeyond"
+  ],
+  "edhrec_rank": 13359,
+  "preview": {
+    "source": "PleasantKenobi",
+    "source_uri": "https://www.youtube.com/watch?v=cZUMys8LVis",
+    "previewed_at": "2022-09-16"
+  },
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.21",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=580851&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArco-Flagellant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArco-Flagellant",
+    "edhrec": "https://edhrec.com/route/?cc=Arco-Flagellant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F286538%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=675716&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/108530?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
