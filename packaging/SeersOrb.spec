@@ -5,19 +5,27 @@ from PyInstaller.utils.hooks import collect_data_files, collect_submodules, copy
 
 block_cipher = None
 
+
+def safe_copy_metadata(package_name):
+    try:
+        return copy_metadata(package_name)
+    except Exception:
+        print(f"Warning: Could not copy metadata for {package_name}")
+        return []
+
 # --- SpaCy Configuration ---
 # Collect datas for spacy and the model
 datas = []
 datas += collect_data_files('spacy')
 datas += collect_data_files('en_core_web_sm')
-datas += copy_metadata('spacy')
-datas += copy_metadata('tqdm')
-datas += copy_metadata('regex')
-datas += copy_metadata('requests')
-datas += copy_metadata('packaging')
-datas += copy_metadata('filelock')
-datas += copy_metadata('numpy')
-datas += copy_metadata('tokenizers')
+datas += safe_copy_metadata('spacy')
+datas += safe_copy_metadata('tqdm')
+datas += safe_copy_metadata('regex')
+datas += safe_copy_metadata('requests')
+datas += safe_copy_metadata('packaging')
+datas += safe_copy_metadata('filelock')
+datas += safe_copy_metadata('numpy')
+datas += safe_copy_metadata('tokenizers')
 
 # Add Flask static/templates
 # Assuming spec file is in packaging/ folder, so root is ..
