@@ -1,5 +1,6 @@
 """Application configuration settings."""
 import os
+import sys
 from pathlib import Path
 
 
@@ -12,8 +13,18 @@ class Config:
     DEBUG = False
     
     # Paths
-    BASE_DIR = Path(__file__).parent
-    DATA_DIR = BASE_DIR / "data"
+    # Paths
+    if getattr(sys, 'frozen', False):
+        # Running as compiled executable
+        # BASE_DIR is where the cached code lives (for static/templates)
+        BASE_DIR = Path(sys._MEIPASS)
+        # DATA_DIR should be next to the executable for persistence
+        DATA_DIR = Path(sys.executable).parent / "data"
+    else:
+        # Running from source
+        BASE_DIR = Path(__file__).parent
+        DATA_DIR = BASE_DIR / "data"
+
     DECKS_DIR = DATA_DIR / "decks"
     CACHE_DIR = DATA_DIR / "cache"
     

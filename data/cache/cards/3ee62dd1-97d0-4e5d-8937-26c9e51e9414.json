@@ -109,18 +109,18 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 9281,
-  "penny_rank": 6579,
+  "edhrec_rank": 9295,
+  "penny_rank": 6584,
   "preview": {
     "source": "Geekculture",
     "source_uri": "https://geekculture.co/magic-the-gathering-akawalli/",
     "previewed_at": "2023-10-30"
   },
   "prices": {
-    "usd": "0.08",
+    "usd": "0.09",
     "usd_foil": "0.13",
     "usd_etched": null,
-    "eur": "0.06",
+    "eur": "0.07",
     "eur_foil": "0.07",
     "tix": "0.03"
   },

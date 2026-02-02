@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "76420044-062e-41d4-8c46-adcc845b7a3c",
+  "oracle_id": "f002dd34-a58d-4bd2-a914-39042f7f264a",
+  "multiverse_ids": [
+    548273
+  ],
+  "arena_id": 79952,
+  "name": "Antique Collector",
+  "lang": "en",
+  "released_at": "2021-12-09",
+  "uri": "https://api.scryfall.com/cards/76420044-062e-41d4-8c46-adcc845b7a3c",
+  "scryfall_uri": "https://scryfall.com/card/ymid/46/antique-collector?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/76420044-062e-41d4-8c46-adcc845b7a3c.jpg?1680465706",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/76420044-062e-41d4-8c46-adcc845b7a3c.jpg?1680465706",
+    "large": "https://cards.scryfall.io/large/front/7/6/76420044-062e-41d4-8c46-adcc845b7a3c.jpg?1680465706",
+    "png": "https://cards.scryfall.io/png/front/7/6/76420044-062e-41d4-8c46-adcc845b7a3c.png?1680465706",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76420044-062e-41d4-8c46-adcc845b7a3c.jpg?1680465706",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76420044-062e-41d4-8c46-adcc845b7a3c.jpg?1680465706"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Human Rogue",
+  "oracle_text": "This creature can't be blocked by creatures with power 2 or less.\nWhen this creature enters, creatures you control perpetually gain \"When this creature dies, you may shuffle it into its owner's library if it's in your graveyard. If you do, investigate.\" (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Investigate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8a673262-8745-452d-820a-03d5c4a4f135",
+  "set": "ymid",
+  "set_name": "Alchemy: Innistrad",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/8a673262-8745-452d-820a-03d5c4a4f135",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aymid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ymid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/76420044-062e-41d4-8c46-adcc845b7a3c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af002dd34-a58d-4bd2-a914-39042f7f264a&unique=prints",
+  "collector_number": "46",
+  "digital": true,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wisnu Tan",
+  "artist_ids": [
+    "f2d36cdd-a4e9-43ba-b2ad-9d514f6706d4"
+  ],
+  "illustration_id": "47870c92-3dc7-4170-8087-74a6903043d0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "alchemy"
+  ],
+  "preview": {
+    "source": "MTGNerdGirl",
+    "source_uri": "https://twitter.com/MTGNerdGirl/status/1468399936362459137",
+    "previewed_at": "2021-12-07"
+  },
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=548273&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAntique%2BCollector",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAntique%2BCollector",
+    "edhrec": "https://edhrec.com/route/?cc=Antique+Collector"
+  }
+}

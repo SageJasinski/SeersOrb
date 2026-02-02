@@ -128,7 +128,7 @@
     "beginnerbox",
     "startercollection"
   ],
-  "edhrec_rank": 61,
+  "edhrec_rank": 63,
   "penny_rank": 243,
   "preview": {
     "source": "Wizards of the Coast",
@@ -136,11 +136,11 @@
     "previewed_at": "2024-06-28"
   },
   "prices": {
-    "usd": "0.18",
-    "usd_foil": "1.51",
+    "usd": "0.24",
+    "usd_foil": "1.52",
     "usd_etched": null,
-    "eur": "0.20",
-    "eur_foil": "0.49",
+    "eur": "0.19",
+    "eur_foil": "0.52",
     "tix": "0.03"
   },
   "related_uris": {

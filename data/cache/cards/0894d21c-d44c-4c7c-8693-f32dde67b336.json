@@ -124,17 +124,17 @@
   "promo_types": [
     "universesbeyond"
   ],
-  "edhrec_rank": 13359,
+  "edhrec_rank": 13364,
   "preview": {
     "source": "PleasantKenobi",
     "source_uri": "https://www.youtube.com/watch?v=cZUMys8LVis",
     "previewed_at": "2022-09-16"
   },
   "prices": {
-    "usd": "0.26",
+    "usd": "0.25",
     "usd_foil": null,
     "usd_etched": null,
-    "eur": "0.21",
+    "eur": "0.22",
     "eur_foil": null,
     "tix": "0.04"
   },

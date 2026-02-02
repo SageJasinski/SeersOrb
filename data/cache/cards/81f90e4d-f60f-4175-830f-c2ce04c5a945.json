@@ -125,8 +125,8 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 11677,
-  "penny_rank": 7721,
+  "edhrec_rank": 11689,
+  "penny_rank": 7701,
   "preview": {
     "source": "AfterOfficeTTV",
     "source_uri": "https://twitter.com/AfterTtv/status/1560733951974678530",
@@ -134,9 +134,9 @@
   },
   "prices": {
     "usd": "0.18",
-    "usd_foil": "0.19",
+    "usd_foil": "0.18",
     "usd_etched": null,
-    "eur": "0.14",
+    "eur": "0.13",
     "eur_foil": "0.26",
     "tix": "0.02"
   },

@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "1293ed24-781c-465f-8561-39b01e7ba388",
+  "oracle_id": "60040023-7bf0-42e0-ab30-46a730675564",
+  "multiverse_ids": [],
+  "mtgo_id": 146029,
+  "tcgplayer_id": 671132,
+  "cardmarket_id": 864982,
+  "name": "Hoarder's Greed",
+  "lang": "en",
+  "released_at": "2026-01-23",
+  "uri": "https://api.scryfall.com/cards/1293ed24-781c-465f-8561-39b01e7ba388",
+  "scryfall_uri": "https://scryfall.com/card/ecc/47/hoarders-greed?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/1293ed24-781c-465f-8561-39b01e7ba388.jpg?1767730179",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/1293ed24-781c-465f-8561-39b01e7ba388.jpg?1767730179",
+    "large": "https://cards.scryfall.io/large/front/1/2/1293ed24-781c-465f-8561-39b01e7ba388.jpg?1767730179",
+    "png": "https://cards.scryfall.io/png/front/1/2/1293ed24-781c-465f-8561-39b01e7ba388.png?1767730179",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/1293ed24-781c-465f-8561-39b01e7ba388.jpg?1767730179",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/1293ed24-781c-465f-8561-39b01e7ba388.jpg?1767730179"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of their library, then puts that card on their choice of the top or bottom. A player wins if their card had a greater mana value.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Clash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "805b5a0c-f8bb-4555-86ea-eb9ec36a011a",
+  "set": "ecc",
+  "set_name": "Lorwyn Eclipsed Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/805b5a0c-f8bb-4555-86ea-eb9ec36a011a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aecc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/ecc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1293ed24-781c-465f-8561-39b01e7ba388/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60040023-7bf0-42e0-ab30-46a730675564&unique=prints",
+  "collector_number": "47",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "No one asked the springjack what it wanted.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mariah Tekulve",
+  "artist_ids": [
+    "1014b405-f81d-4f37-97df-e04ef62eacf4"
+  ],
+  "illustration_id": "f5e0a561-cbd9-41b4-8bba-1157ccc30b6d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 10932,
+  "penny_rank": 14344,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHoarder%2527s%2BGreed",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHoarder%2527s%2BGreed",
+    "edhrec": "https://edhrec.com/route/?cc=Hoarder%27s+Greed"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F671132%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=864982&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/146029?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

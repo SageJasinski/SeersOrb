@@ -71,19 +71,29 @@ async function loadDecks() {
 
 async function loadDeckGraph(deckId) {
     try {
+        // Load data for sidebars
         const graphData = await api(`/decks/${deckId}/graph`);
-        deckData = graphData;
 
-        initGraph(graphData);
         updateStats(graphData.stats);
-        updateFilters(graphData.edges);
 
         // Load analysis
         const analysis = await api(`/decks/${deckId}/analysis`);
         updateKeyCards(analysis.key_cards);
 
+        // Load Pyvis Visualization
+        const viz = await api(`/decks/${deckId}/visualize-html`, { method: 'POST' });
+
+        const container = document.getElementById('graph-container');
+        container.innerHTML = `<iframe src="${viz.url}" style="width: 100%; height: 100%; border: none;"></iframe>`;
+
         // Hide placeholder
         document.querySelector('.graph-placeholder').style.display = 'none';
+
+        // Hide Cytoscape-specific controls
+        document.querySelector('.graph-controls').style.display = 'none';
+        document.getElementById('interaction-filters').innerHTML = '<p class="text-muted">Filtering disabled in Edge Bundling view</p>';
+        document.getElementById('legend-items').innerHTML = '<p class="text-muted">See tooltips in graph</p>';
+
     } catch (error) {
         showToast(`Failed to load graph: ${error.message}`, 'error');
     }

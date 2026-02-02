@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "78b55a58-c669-4dc6-aa63-5d9dff52e613",
+  "oracle_id": "f93dc9cc-3dd2-4e2b-b972-217ab9d89dfe",
+  "multiverse_ids": [
+    669042
+  ],
+  "mtgo_id": 129501,
+  "arena_id": 91664,
+  "tcgplayer_id": 558702,
+  "cardmarket_id": 777772,
+  "name": "Brazen Collector",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/78b55a58-c669-4dc6-aa63-5d9dff52e613",
+  "scryfall_uri": "https://scryfall.com/card/blb/128/brazen-collector?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/8/78b55a58-c669-4dc6-aa63-5d9dff52e613.jpg?1721426587",
+    "normal": "https://cards.scryfall.io/normal/front/7/8/78b55a58-c669-4dc6-aa63-5d9dff52e613.jpg?1721426587",
+    "large": "https://cards.scryfall.io/large/front/7/8/78b55a58-c669-4dc6-aa63-5d9dff52e613.jpg?1721426587",
+    "png": "https://cards.scryfall.io/png/front/7/8/78b55a58-c669-4dc6-aa63-5d9dff52e613.png?1721426587",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/8/78b55a58-c669-4dc6-aa63-5d9dff52e613.jpg?1721426587",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/8/78b55a58-c669-4dc6-aa63-5d9dff52e613.jpg?1721426587"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Raccoon Rogue",
+  "oracle_text": "First strike\nWhenever this creature attacks, add {R}. Until end of turn, you don't lose this mana as steps and phases end.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "First strike"
+  ],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/78b55a58-c669-4dc6-aa63-5d9dff52e613/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af93dc9cc-3dd2-4e2b-b972-217ab9d89dfe&unique=prints",
+  "collector_number": "128",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Risks taken to retrieve a prize only increase its value.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aldo Dom\u00ednguez",
+  "artist_ids": [
+    "b701136e-c578-4a48-9383-1c2a5381ecb2"
+  ],
+  "illustration_id": "ac74f179-7448-4970-97ca-137abd2d0d50",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10183,
+  "preview": {
+    "source": "BrujajaGaming",
+    "source_uri": "https://twitter.com/BrujajaGaming/status/1811091814381678696",
+    "previewed_at": "2024-07-10"
+  },
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.12",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=669042&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrazen%2BCollector",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrazen%2BCollector",
+    "edhrec": "https://edhrec.com/route/?cc=Brazen+Collector"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F558702%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=777772&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129501?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

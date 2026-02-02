@@ -52,7 +52,7 @@
     "legacy": "legal",
     "pauper": "legal",
     "vintage": "legal",
-    "penny": "legal",
+    "penny": "not_legal",
     "commander": "legal",
     "oathbreaker": "legal",
     "standardbrawl": "not_legal",
@@ -104,7 +104,7 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 23435,
+  "edhrec_rank": 23433,
   "prices": {
     "usd": "0.13",
     "usd_foil": "1.30",

@@ -74,7 +74,7 @@
     "legacy": "legal",
     "pauper": "not_legal",
     "vintage": "legal",
-    "penny": "not_legal",
+    "penny": "legal",
     "commander": "legal",
     "oathbreaker": "legal",
     "standardbrawl": "not_legal",
@@ -129,8 +129,8 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 3646,
-  "penny_rank": 3228,
+  "edhrec_rank": 3655,
+  "penny_rank": 3222,
   "preview": {
     "source": "Wizards of the Coast",
     "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/dominaria-united",
@@ -141,7 +141,7 @@
     "usd_foil": "0.29",
     "usd_etched": null,
     "eur": "0.39",
-    "eur_foil": "0.46",
+    "eur_foil": "0.40",
     "tix": "0.02"
   },
   "related_uris": {

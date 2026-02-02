@@ -4,6 +4,7 @@ import re
 
 from core.models.card import Card
 from core.models.interaction import Interaction, InteractionType
+from core.graph.tagging import KeywordTagger
 
 
 class InteractionDetector:
@@ -15,6 +16,7 @@ class InteractionDetector:
     """
     
     def __init__(self):
+        self.tagger = KeywordTagger()
         # Keywords that indicate sacrifice outlets
         self.sacrifice_outlet_patterns = [
             r"[Ss]acrifice a creature",
@@ -119,6 +121,9 @@ class InteractionDetector:
         
         # Keyword synergies
         interactions.extend(self._check_keyword_synergy(card1, card2))
+        
+        # Keyword synergies (NLP)
+        self._check_nlp_keyword_synergy(card1, card2, interactions)
         
         # Tutor relationships
         interactions.extend(self._check_tutor_relationship(card1, card2))
@@ -509,3 +514,28 @@ class InteractionDetector:
                     ))
         
         return interactions
+
+    def _check_nlp_keyword_synergy(self, card_a: Card, card_b: Card, interactions: List[Interaction]):
+        """Check for keyword-based synergies using NLP."""
+        # Get keywords from both cards
+        keywords_a = self.tagger.extract_keywords(card_a.oracle_text)
+        keywords_b = self.tagger.extract_keywords(card_b.oracle_text)
+        
+        # Combine all extracted and explicit keywords
+        all_keywords_a = set(keywords_a['abilities'] + keywords_a['actions'] + (card_a.keywords or []))
+        all_keywords_b = set(keywords_b['abilities'] + keywords_b['actions'] + (card_b.keywords or []))
+        
+        # Heuristic 1: Lords (Card A buffs creatures with Keyword X, Card B has Keyword X)
+        # Scan Card A for "Creatures you control with [Keyword] get" patterns via regex or flexible match
+        # For now, we use a simple set intersection to define shared keywords for the Weighter to pick up later
+        
+        common = all_keywords_a.intersection(all_keywords_b)
+        if common:
+            # We add a base synergy connection if they share keywords
+            interactions.append(Interaction(
+                source_id=card_a.id,
+                target_id=card_b.id,
+                interaction_type=InteractionType.SYNERGY,
+                weight=0.5,
+                description=f"Shared keywords: {', '.join(common)}"
+            ))

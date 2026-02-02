@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "cea79097-b56a-4cbf-9c80-2dfe0c67368b",
+  "oracle_id": "8922fd19-ea09-449c-a37a-28ed2d5ed8ee",
+  "multiverse_ids": [],
+  "name": "A-Lapis Orb of Dragonkind",
+  "lang": "en",
+  "released_at": "2022-07-07",
+  "uri": "https://api.scryfall.com/cards/cea79097-b56a-4cbf-9c80-2dfe0c67368b",
+  "scryfall_uri": "https://scryfall.com/card/hbg/A-127/a-lapis-orb-of-dragonkind?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/e/cea79097-b56a-4cbf-9c80-2dfe0c67368b.jpg?1681158996",
+    "normal": "https://cards.scryfall.io/normal/front/c/e/cea79097-b56a-4cbf-9c80-2dfe0c67368b.jpg?1681158996",
+    "large": "https://cards.scryfall.io/large/front/c/e/cea79097-b56a-4cbf-9c80-2dfe0c67368b.jpg?1681158996",
+    "png": "https://cards.scryfall.io/png/front/c/e/cea79097-b56a-4cbf-9c80-2dfe0c67368b.png?1681158996",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/e/cea79097-b56a-4cbf-9c80-2dfe0c67368b.jpg?1681158996",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/e/cea79097-b56a-4cbf-9c80-2dfe0c67368b.jpg?1681158996"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add one mana of any color. When you spend this mana to cast a Dragon creature spell, scry 2.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "cea79097-b56a-4cbf-9c80-2dfe0c67368b",
+      "component": "combo_piece",
+      "name": "A-Lapis Orb of Dragonkind",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/cea79097-b56a-4cbf-9c80-2dfe0c67368b"
+    },
+    {
+      "object": "related_card",
+      "id": "a4ad6e6a-fecf-4fb0-b1e8-00f9f0ca5c5a",
+      "component": "combo_piece",
+      "name": "Lapis Orb of Dragonkind",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/a4ad6e6a-fecf-4fb0-b1e8-00f9f0ca5c5a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set": "hbg",
+  "set_name": "Alchemy Horizons: Baldur's Gate",
+  "set_type": "alchemy",
+  "set_uri": "https://api.scryfall.com/sets/35528ede-7870-4598-a2ee-7f3d6464a74b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahbg&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/hbg?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cea79097-b56a-4cbf-9c80-2dfe0c67368b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8922fd19-ea09-449c-a37a-28ed2d5ed8ee&unique=prints",
+  "collector_number": "A-127",
+  "digital": true,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Olena Richards",
+  "artist_ids": [
+    "fad4282c-49d1-4b5b-be1d-713369fc8bc8"
+  ],
+  "illustration_id": "609583d8-1f35-42ba-97ec-9ffe53f17b13",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced",
+    "alchemy"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Lapis%2BOrb%2Bof%2BDragonkind",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Lapis%2BOrb%2Bof%2BDragonkind",
+    "edhrec": "https://edhrec.com/route/?cc=A-Lapis+Orb+of+Dragonkind"
+  }
+}

@@ -100,19 +100,19 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 9176,
-  "penny_rank": 11594,
+  "edhrec_rank": 9170,
+  "penny_rank": 11599,
   "preview": {
     "source": "AKirA",
     "source_uri": "https://www.youtube.com/watch?v=nNpFR63KX0Y",
     "previewed_at": "2023-01-24"
   },
   "prices": {
-    "usd": "0.09",
+    "usd": "0.08",
     "usd_foil": "0.29",
     "usd_etched": null,
     "eur": "0.10",
-    "eur_foil": "0.14",
+    "eur_foil": "0.15",
     "tix": "0.03"
   },
   "related_uris": {

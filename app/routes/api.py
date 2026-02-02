@@ -66,6 +66,27 @@ def create_deck():
     return jsonify({"id": deck_id, "deck": deck.to_dict()}), 201
 
 
+@bp.route("/decks/import", methods=["POST"])
+def import_deck():
+    """Import a deck from text list."""
+    from core.services.deck_storage import DeckStorage
+    
+    data = request.get_json()
+    if not data or "text" not in data:
+        return jsonify({"error": "Missing deck text"}), 400
+        
+    text = data.get("text", "")
+    name = data.get("name", "Imported Deck")
+    
+    storage = DeckStorage()
+    deck = storage.import_from_text(text, name)
+    
+    # Save the imported deck
+    deck_id = storage.save_deck(deck)
+    
+    return jsonify({"id": deck_id, "deck": deck.to_dict()}), 201
+
+
 @bp.route("/decks/<deck_id>", methods=["GET"])
 def get_deck(deck_id):
     """Get a specific deck."""
@@ -135,6 +156,36 @@ def get_deck_graph(deck_id):
     
     graph = DeckGraph(deck)
     return jsonify(graph.to_cytoscape_format())
+
+
+@bp.route("/decks/<deck_id>/visualize-html", methods=["POST"])
+def generate_deck_visualization(deck_id):
+    """Generate Pyvis interactive graph HTML."""
+    from core.services.deck_storage import DeckStorage
+    from core.graph.deck_graph import DeckGraph
+    from core.graph.visualizer import GraphVisualizer
+    
+    storage = DeckStorage()
+    deck = storage.load_deck(deck_id)
+    if not deck:
+        return jsonify({"error": "Deck not found"}), 404
+    
+    # Generate graph logic
+    deck_graph = DeckGraph(deck)
+    deck_graph.detect_interactions()
+    
+    # Create visualizer and generate HTML
+    visualizer = GraphVisualizer()
+    # Ensure filename is unique/consistent
+    filename = f"{deck_id}.html"
+    visualizer.generate_visualization(deck_graph, filename)
+    
+    # Return URL to the static file
+    # Assuming app/static is served at /static
+    return jsonify({
+        "url": f"/static/graphs/{filename}",
+        "path": filename
+    })
 
 
 @bp.route("/decks/<deck_id>/analysis")

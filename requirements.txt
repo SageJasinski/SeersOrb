@@ -18,3 +18,9 @@ pywebview>=5.0.0
 
 # Development
 pytest>=7.4.0
+
+# NLP
+spacy>=3.7.0
+
+# Visualization
+pyvis>=0.3.2

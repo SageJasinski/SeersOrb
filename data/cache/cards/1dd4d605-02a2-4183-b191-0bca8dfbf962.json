@@ -99,10 +99,10 @@
   "booster": true,
   "story_spotlight": false,
   "prices": {
-    "usd": "0.14",
-    "usd_foil": "0.19",
+    "usd": "0.12",
+    "usd_foil": "0.17",
     "usd_etched": null,
-    "eur": "0.06",
+    "eur": "0.07",
     "eur_foil": "0.06",
     "tix": "0.01"
   },

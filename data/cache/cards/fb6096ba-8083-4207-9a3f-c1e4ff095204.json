@@ -46,7 +46,7 @@
     "legacy": "legal",
     "pauper": "legal",
     "vintage": "legal",
-    "penny": "not_legal",
+    "penny": "legal",
     "commander": "legal",
     "oathbreaker": "legal",
     "standardbrawl": "legal",
@@ -100,13 +100,13 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 23815,
+  "edhrec_rank": 23484,
   "prices": {
-    "usd": "0.11",
-    "usd_foil": "0.30",
+    "usd": "0.09",
+    "usd_foil": "0.29",
     "usd_etched": null,
-    "eur": "0.04",
-    "eur_foil": "0.05",
+    "eur": "0.02",
+    "eur_foil": "0.07",
     "tix": "0.01"
   },
   "related_uris": {

@@ -102,8 +102,8 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 9190,
-  "penny_rank": 1336,
+  "edhrec_rank": 9192,
+  "penny_rank": 1335,
   "preview": {
     "source": "La Banda del Monored",
     "source_uri": "http://www.labandadelmonored.com/fauces-demencia/",
@@ -113,7 +113,7 @@
     "usd": "0.11",
     "usd_foil": "0.20",
     "usd_etched": null,
-    "eur": "0.18",
+    "eur": "0.16",
     "eur_foil": "0.36",
     "tix": "0.03"
   },

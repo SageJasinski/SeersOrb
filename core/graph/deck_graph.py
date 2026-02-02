@@ -10,7 +10,22 @@ from core.models.interaction import (
 )
 from core.graph.interaction_detector import InteractionDetector
 
+"""
+___ Section Notes ___
 
+A couple of things need to happen here. We need a directional weighted graph to represent the interaction and synergy between cards.
+It is unreliable to use just one algorithm for the entire graph. We are going to need multiple algorithms for weight and interaction.
+In addition to a default weighting algorithm we also need to implament a user definable weight to give the user the ability to say what their
+vision for the deck is. With these key points in mind we need to develoup:
+
+• A tagging engine for the text of cards in a deck
+• An algorithm to detect and make edges between cards based on the tags
+• A weighting algorithm that takes into account user defined weights and the base interactions of the cards
+• A Package algorithm to group packages of like cards and visually mark what cards belong to what package in respect to the current deck.
+• A couple of centralization algorithms to show the most important cards in the deck.
+• A PageRanking algorithm for list view showing the most important cards in the deck based on their interactions and support from other cards.
+
+"""
 class DeckGraph:
     """
     Graph representation of a deck where:
@@ -45,6 +60,7 @@ class DeckGraph:
             # Node attributes for visualization
             self.graph.add_node(
                 card.id,
+                card=card,
                 name=card.name,
                 type_line=card.type_line,
                 card_types=card.get_card_types(),
@@ -61,7 +77,7 @@ class DeckGraph:
     def detect_interactions(self):
         """Detect all interactions between cards."""
         #TODO: Implement Custom MTG ruels and state based interaction detect
-s        detector = InteractionDetector()
+        detector = InteractionDetector()
         cards = self.deck.get_unique_cards()
         
         self.interactions = detector.detect_all(cards)

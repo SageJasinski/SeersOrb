@@ -104,7 +104,7 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 10274,
+  "edhrec_rank": 10285,
   "penny_rank": 6298,
   "preview": {
     "source": "Riley Knight",
@@ -112,10 +112,10 @@
     "previewed_at": "2021-09-07"
   },
   "prices": {
-    "usd": "0.22",
-    "usd_foil": "0.21",
+    "usd": "0.21",
+    "usd_foil": "0.22",
     "usd_etched": null,
-    "eur": "0.13",
+    "eur": "0.14",
     "eur_foil": "0.34",
     "tix": "0.02"
   },

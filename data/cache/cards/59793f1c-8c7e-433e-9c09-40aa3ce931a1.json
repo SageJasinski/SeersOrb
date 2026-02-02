@@ -120,19 +120,19 @@
   "textless": false,
   "booster": true,
   "story_spotlight": false,
-  "edhrec_rank": 4606,
-  "penny_rank": 3017,
+  "edhrec_rank": 4605,
+  "penny_rank": 3009,
   "preview": {
     "source": "Wizards of the Coast",
     "source_uri": "https://x.com/wizards_magic/status/1848416465549955467",
     "previewed_at": "2024-10-21"
   },
   "prices": {
-    "usd": "0.81",
-    "usd_foil": "1.32",
+    "usd": "0.80",
+    "usd_foil": "1.33",
     "usd_etched": null,
-    "eur": "0.78",
-    "eur_foil": "1.39",
+    "eur": "0.76",
+    "eur_foil": "1.46",
     "tix": "0.02"
   },
   "related_uris": {

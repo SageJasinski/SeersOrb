@@ -1,0 +1,28 @@
+{
+  "id": "2c099947-7b2a-43c4-9424-40a47bec34e2",
+  "name": "Random green deck",
+  "format": "standard",
+  "description": "",
+  "commander": null,
+  "partner": null,
+  "cards": {},
+  "sideboard": {},
+  "created_at": "2026-02-02T00:10:04.855966",
+  "updated_at": "2026-02-02T00:10:04.861499",
+  "stats": {
+    "total_cards": 0,
+    "unique_cards": 0,
+    "land_count": 0,
+    "average_cmc": 0.0,
+    "mana_curve": {},
+    "color_distribution": {
+      "W": 0,
+      "U": 0,
+      "B": 0,
+      "R": 0,
+      "G": 0,
+      "C": 0
+    },
+    "type_distribution": {}
+  }
+}

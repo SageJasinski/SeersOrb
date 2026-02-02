@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "4926ede3-deb5-405f-b867-a0079bb9f4d7",
+  "oracle_id": "10d1d908-6e62-48a4-9c87-c355cfe66dc5",
+  "multiverse_ids": [],
+  "arena_id": 69900,
+  "name": "A-Sorin, Imperious Bloodlord",
+  "lang": "en",
+  "released_at": "2019-07-12",
+  "uri": "https://api.scryfall.com/cards/4926ede3-deb5-405f-b867-a0079bb9f4d7",
+  "scryfall_uri": "https://scryfall.com/card/m20/A-115/a-sorin-imperious-bloodlord?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/9/4926ede3-deb5-405f-b867-a0079bb9f4d7.jpg?1758969387",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/4926ede3-deb5-405f-b867-a0079bb9f4d7.jpg?1758969387",
+    "large": "https://cards.scryfall.io/large/front/4/9/4926ede3-deb5-405f-b867-a0079bb9f4d7.jpg?1758969387",
+    "png": "https://cards.scryfall.io/png/front/4/9/4926ede3-deb5-405f-b867-a0079bb9f4d7.png?1758969387",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/4926ede3-deb5-405f-b867-a0079bb9f4d7.jpg?1758969387",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/9/4926ede3-deb5-405f-b867-a0079bb9f4d7.jpg?1758969387"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Legendary Planeswalker \u2014 Sorin",
+  "oracle_text": "+1: Target creature you control gains deathtouch and lifelink until end of turn. If it's a Vampire, put a +1/+1 counter on it.\n+1: You may sacrifice a Vampire. When you do, Sorin deals 3 damage to any target and you gain 3 life.\n\u22123: You may put a Vampire creature card with mana value 6 or less from your hand onto the battlefield.",
+  "loyalty": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4926ede3-deb5-405f-b867-a0079bb9f4d7",
+      "component": "combo_piece",
+      "name": "A-Sorin, Imperious Bloodlord",
+      "type_line": "Legendary Planeswalker \u2014 Sorin",
+      "uri": "https://api.scryfall.com/cards/4926ede3-deb5-405f-b867-a0079bb9f4d7"
+    },
+    {
+      "object": "related_card",
+      "id": "9f764be3-dd3f-44b1-a4a6-807d1387590b",
+      "component": "combo_piece",
+      "name": "Sorin, Imperious Bloodlord",
+      "type_line": "Legendary Planeswalker \u2014 Sorin",
+      "uri": "https://api.scryfall.com/cards/9f764be3-dd3f-44b1-a4a6-807d1387590b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4a787360-9767-4f44-80b1-2405dc5e39c7",
+  "set": "m20",
+  "set_name": "Core Set 2020",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/4a787360-9767-4f44-80b1-2405dc5e39c7",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am20&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m20?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4926ede3-deb5-405f-b867-a0079bb9f4d7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A10d1d908-6e62-48a4-9c87-c355cfe66dc5&unique=prints",
+  "collector_number": "A-115",
+  "digital": true,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "6a952297-05e7-4886-b70d-14f3066f9e87",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "arena",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "rebalanced"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DA-Sorin%252C%2BImperious%2BBloodlord",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DA-Sorin%252C%2BImperious%2BBloodlord",
+    "edhrec": "https://edhrec.com/route/?cc=A-Sorin%2C+Imperious+Bloodlord"
+  }
+}

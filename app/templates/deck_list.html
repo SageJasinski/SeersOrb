@@ -250,7 +250,7 @@
         try {
             await api('/decks/import', {
                 method: 'POST',
-                body: { name, format, deck_text: text }
+                body: { name, format, text: text }
             });
             showToast('Deck imported!', 'success');
             modal.classList.add('hidden');

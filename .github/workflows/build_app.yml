@@ -1,0 +1,59 @@
+name: Build Application
+
+on:
+  workflow_dispatch: # Manual trigger
+  push:
+    tags:
+      - 'v*' # Trigger on version tags
+
+jobs:
+  build:
+    name: Build for ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        include:
+          - os: windows-latest
+            artifact_name: SeersOrb-Windows
+            asset_name: SeersOrb-Windows.zip
+          - os: macos-latest
+            artifact_name: SeersOrb-macOS
+            asset_name: SeersOrb-macOS.zip
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install pyinstaller
+        # Download spaCy model
+        python -m spacy download en_core_web_sm
+
+    - name: Build with PyInstaller
+      run: |
+        pyinstaller packaging/SeersOrb.spec --noconfirm
+
+    - name: Zip Build (Windows)
+      if: runner.os == 'Windows'
+      run: |
+        cd dist
+        Compress-Archive -Path SeersOrb -DestinationPath ..\${{ matrix.asset_name }}
+
+    - name: Zip Build (macOS)
+      if: runner.os == 'macOS'
+      run: |
+        cd dist
+        zip -r ../${{ matrix.asset_name }} SeersOrb/
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: ${{ matrix.artifact_name }}
+        path: ${{ matrix.asset_name }}
